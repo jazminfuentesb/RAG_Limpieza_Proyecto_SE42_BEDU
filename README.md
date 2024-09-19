@@ -46,4 +46,6 @@ La limpieza y optimización de la base de datos de "RAG Limpieza" es un paso cru
 - Documento en Google Docs o Word que describa el proceso y los resultados de la limpieza.
   
   🔗 https://docs.google.com/document/d/1zZ84MtWtJ1opsUpW8jPbWt0bZzvnxXxYRshyERIJoEA/edit?usp=sharing
+  
 - Presentación en PowerPoint con un resumen de las métricas implementadas y los resultados obtenidos.
+  🔗   https://www.canva.com/design/DAGQ4w04mh4/m-yjWyFeh5ncJ8hUTGsB1w/edit?utm_content=DAGQ4w04mh4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
