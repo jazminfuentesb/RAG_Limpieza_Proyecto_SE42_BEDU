@@ -41,7 +41,9 @@ La limpieza y optimización de la base de datos de "RAG Limpieza" es un paso cru
 ## 📂 9. Entregables
 
 - Código ejecutable en Google Colab que realice el procesamiento y limpieza de datos.
+  
   🔗 https://colab.research.google.com/drive/11zwMKlWHzt6-tOZpNEz10cGj_x5Vc2ox?usp=sharing
 - Documento en Google Docs o Word que describa el proceso y los resultados de la limpieza.
+  
   🔗 https://docs.google.com/document/d/1zZ84MtWtJ1opsUpW8jPbWt0bZzvnxXxYRshyERIJoEA/edit?usp=sharing
 - Presentación en PowerPoint con un resumen de las métricas implementadas y los resultados obtenidos.
