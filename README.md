@@ -28,7 +28,7 @@ Las empresas enfrentan retos relacionados con la calidad de los datos en sus bas
 
 ## 💡 6. Posible Solución
 
-La solución propuesta implica el uso de herramientas como Python y bibliotecas de procesamiento de datos (como pandas y numpy) para llevar a cabo la limpieza de datos. Esto incluirá la eliminación de registros duplicados, la imputación de valores nulos y la normalización de datos para garantizar su consistencia. Una vez limpiados, se calcularán métricas clave que ayudarán a evaluar el rendimiento.
+La solución propuesta implica el uso de herramientas como Python y bibliotecas de procesamiento de datos (como pandas) para llevar a cabo la limpieza de datos. Esto incluirá la eliminación de registros duplicados, la imputación de valores nulos y la normalización de datos para garantizar su consistencia. Una vez limpiados, se calcularán métricas clave que ayudarán a evaluar el rendimiento.
 
 ## 🌟 7. Consideraciones Futuras
 
