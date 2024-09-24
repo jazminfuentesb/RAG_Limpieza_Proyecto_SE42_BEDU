@@ -1,0 +1,1645 @@
+,nombre_cliente,descripcion_servicio,duracion_servicio,fecha_servicio,inicio,fin,servicio_range,tipo_cliente
+0,Apodaca,Sin comentarios,0.5,2022-09-26,07:45:00,08:15:00,Servicio Corto,Cliente recurrente
+1,Susana Martinez,Matrimonial,1.0,2022-09-26,09:00:00,10:00:00,Servicio Corto,Cliente nuevo
+2,Perla Armendáriz,"Sala 322 $750
+Teflon $700
+2 tapetes PL
+Traslado $100",2.25,2022-09-26,10:30:00,12:45:00,Servicio Medio,Cliente recurrente
+3,Ciro Leal,Sillas,1.0,2022-09-26,14:00:00,15:00:00,Servicio Corto,Cliente nuevo
+4,Pago a Jessy $358,Limpiaalfombras karcher,0.75,2022-09-27,01:00:00,01:45:00,Servicio Corto,Cliente recurrente
+5,Poniente,Sin comentarios,0.75,2022-09-27,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+6,Miriam Rodriguez,Suv 3f,3.5,2022-09-27,09:00:00,12:30:00,Servicio Largo,Cliente nuevo
+7,Patricia Sanchez,King,1.0,2022-09-27,13:30:00,14:30:00,Servicio Corto,Cliente nuevo
+8,Graciela Plaza,Auto,2.5,2022-09-27,15:00:00,17:30:00,Servicio Medio,Cliente recurrente
+9,Gladys Gonzalez,Entrega tapetes,0.75,2022-09-27,16:00:00,16:45:00,Servicio Corto,Cliente nuevo
+10,Cumbres,Sin comentarios,0.75,2022-09-28,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+11,Fulton Mendoza,"Auto
+Plata 1104 cumbres platinum",2.5,2022-09-28,09:00:00,11:30:00,Servicio Medio,Cliente nuevo
+12,Melissa Ibarra,Sin comentarios,1.5,2022-09-28,12:00:00,13:30:00,Servicio Medio,Cliente recurrente
+13,Jacky Hernández,"Sala L 8p, $900 con espaldas sin desmontables",1.75,2022-09-28,13:30:00,15:15:00,Servicio Medio,Cliente nuevo
+14,Melissa cantu,Sala,1.5,2022-09-28,16:30:00,18:00:00,Servicio Medio,Cliente nuevo
+15,Timoteo Balboa,Suv Sportage,3.0,2022-09-28,17:00:00,20:00:00,Servicio Largo,Cliente nuevo
+16,Saltillo,Sin comentarios,0.75,2022-09-29,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+17,Marisol ROCA,Sin comentarios,0.75,2022-09-29,15:00:00,15:45:00,Servicio Corto,Cliente nuevo
+18,Lili aizl,Sin comentarios,2.25,2022-09-29,16:00:00,18:15:00,Servicio Medio,Cliente nuevo
+19,Daniel Gonzalez Hamburguesa,Auto,3.25,2022-09-30,09:15:00,12:30:00,Servicio Largo,Cliente nuevo
+20,Mariana Bartolone,"Sillón 350 y sillas, recolección de tapete",3.0,2022-09-30,14:00:00,17:00:00,Servicio Largo,Cliente recurrente
+21,Brenda zavala,"Avilés 109 valle la rioja sector asturias
+sala 3,2 $550
+6 sillas completas $480
+Matrimonial $500
+2 individuales $800",3.5,2022-10-01,00:15:00,03:45:00,Servicio Largo,Cliente nuevo
+22,Luz Martinez Fraga,Auto,2.5,2022-10-01,10:00:00,12:30:00,Servicio Medio,Cliente nuevo
+23,Soyrumi,"Dpto 109
+Sillón con 2 desmontables",1.5,2022-10-01,13:30:00,15:00:00,Servicio Medio,Cliente nuevo
+24,Servando Juarez,Cielo auto 250,0.75,2022-10-01,15:00:00,15:45:00,Servicio Corto,Cliente nuevo
+25,Sonora,Sin comentarios,0.0,2022-10-03,20:00:00,00:00:00,Servicio Corto,Cliente recurrente
+26,Santa. San pedro,Sin comentarios,0.75,2022-10-03,06:00:00,06:45:00,Servicio Corto,Cliente nuevo
+27,Christian Guerra,"Alcazaba # 17 
+Colonia Almena II
+Respaldo y base de king $750, sala 3,2 $600",2.5,2022-10-03,09:00:00,11:30:00,Servicio Medio,Cliente nuevo
+28,Lesley Chavez,Sillas,6.0,2022-10-03,10:00:00,16:00:00,Servicio Largo,Cliente recurrente
+29,Hector Covarrubias,Sala 32 con desmontables y sillones individuales,2.5,2022-10-03,12:30:00,15:00:00,Servicio Medio,Cliente recurrente
+30,Julio almaraz,Colchon y descanset,1.75,2022-10-03,15:00:00,16:45:00,Servicio Medio,Cliente nuevo
+31,Karla del Bosque,"Entrega tapete
+Depa 2121",0.75,2022-10-03,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+32,San Nicolás,Sin comentarios,0.75,2022-10-04,04:00:00,04:45:00,Servicio Corto,Cliente recurrente
+33,Katia cueto,Sala 321 650 +$ 50 desmontable,2.0,2022-10-04,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+34,Paulina Martinez ldi,Sala 321 $750,1.5,2022-10-04,11:00:00,12:30:00,Servicio Medio,Cliente nuevo
+35,Nancy Facundo,Sin comentarios,2.0,2022-10-04,13:00:00,15:00:00,Servicio Medio,Cliente nuevo
+36,Valeria Benavides,"Sillón 350, desmontables 50 y decorativos 40",1.0,2022-10-04,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+37,Sur,Sin comentarios,0.75,2022-10-05,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+38,Anna Hernández,"570-A
+King y auto",4.5,2022-10-05,09:00:00,13:30:00,Servicio Largo,Cliente nuevo
+39,Georgina Franco,Sala 750 fijo + 50 c desmontable,2.5,2022-10-05,14:30:00,17:00:00,Servicio Medio,Cliente nuevo
+40,Magdalena Godoy,Sala,1.0,2022-10-05,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+41,"Escobedo, obispado",Sin comentarios,0.75,2022-10-06,05:00:00,05:45:00,Servicio Corto,Cliente nuevo
+42,Magdalena godoy,Colchon,1.25,2022-10-06,09:00:00,10:15:00,Servicio Corto,Cliente nuevo
+43,Paulina Lopez,Colchon de cuna de moisés 150 y portabebe 150,1.0,2022-10-06,11:00:00,12:00:00,Servicio Corto,Cliente recurrente
+44,Priscila Gomez,"Sala 550 y teflon, recoger tapete",1.5,2022-10-06,13:00:00,14:30:00,Servicio Medio,Cliente nuevo
+45,Mauri Tony,Auto,2.5,2022-10-06,15:00:00,17:30:00,Servicio Medio,Cliente nuevo
+46,Monica Garza,3 individuales,1.75,2022-10-07,09:00:00,10:45:00,Servicio Medio,Cliente nuevo
+47,Perla Armendáriz,Sin comentarios,1.0,2022-10-07,17:00:00,18:00:00,Servicio Corto,Cliente recurrente
+48,Saltillo,Sin comentarios,0.75,2022-10-08,08:00:00,08:45:00,Servicio Corto,Cliente recurrente
+49,Amplia Gallegos Mauricio,"Sala e individual 
+Amalia Gallegos Mauricio 8446077336 Villa escondida 195 ampliación morelos clave de acceso 28915#",1.75,2022-10-08,12:00:00,13:45:00,Servicio Medio,Cliente nuevo
+50,Fernanda Gaona,Sala 321 $650,1.5,2022-10-08,15:00:00,16:30:00,Servicio Medio,Cliente nuevo
+51,Bertha Santillan,Sillón 300 fijo y sillas 150 cu,1.48,2022-10-10,10:00:00,11:29:00,Servicio Corto,Cliente nuevo
+52,Karla Villarreal,"2 matrimoniales, 1 sala y tapete. Cotizar ahí",2.75,2022-10-10,12:00:00,14:45:00,Servicio Medio,Cliente recurrente
+53,Minerva Martinez Ortiz,Sala 22 fija $500,1.25,2022-10-10,15:00:00,16:15:00,Servicio Corto,Cliente nuevo
+54,Marijose Salazar,"Palo blanco 412 
+Sala $400 lo fijo, $50 c desmontable y decorativos $30. Protección de telas mismos precios",1.75,2022-10-10,16:30:00,18:15:00,Servicio Medio,Cliente nuevo
+55,Sn y sur,Sin comentarios,0.75,2022-10-11,05:00:00,05:45:00,Servicio Corto,Cliente nuevo
+56,Melissa Adame,Sin comentarios,1.5,2022-10-11,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+57,Cristina Quintanar,"Umbria 107 
+Sala $600 y recoger tapete",1.5,2022-10-11,12:00:00,13:30:00,Servicio Medio,Cliente recurrente
+58,Analy Rubalcava,"Novelda 102
+Colchon, cabecera y 2 sillones individuales",2.48,2022-10-11,14:00:00,16:29:00,Servicio Medio,Cliente nuevo
+59,Tío cesar Garza,Sala 321,1.5,2022-10-11,16:00:00,17:30:00,Servicio Medio,Cliente nuevo
+60,Cumbres,Sin comentarios,0.75,2022-10-12,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+61,Adriana Aguirre Pintos,Individual,0.75,2022-10-12,09:00:00,09:45:00,Servicio Corto,Cliente nuevo
+62,Lizzet Longoria,Suv y carseat,3.0,2022-10-12,10:00:00,13:00:00,Servicio Largo,Cliente nuevo
+63,Berta Hinojosa,Recolección,0.75,2022-10-12,10:00:00,10:45:00,Servicio Corto,Cliente nuevo
+64,Normita,Sin comentarios,0.75,2022-10-12,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+65,Diego Calvillo,Sin comentarios,1.75,2022-10-12,13:00:00,14:45:00,Servicio Medio,Cliente nuevo
+66,Sur,Sin comentarios,0.75,2022-10-13,04:00:00,04:45:00,Servicio Corto,Cliente recurrente
+67,Fiesta roman,Sin comentarios,0.75,2022-10-13,07:15:00,08:00:00,Servicio Corto,Cliente nuevo
+68,Adrian Valdez pirru,"Encino 138 colinas del huajuco
+Sala $650 lo fijo",1.5,2022-10-13,13:00:00,14:30:00,Servicio Medio,Cliente nuevo
+69,Cristian Herrera,Junta,1.0,2022-10-13,14:30:00,15:30:00,Servicio Corto,Cliente nuevo
+70,Andrea Gordillo,Detalles de un asiento y esquinas de cojines. Cobrar,0.75,2022-10-13,15:00:00,15:45:00,Servicio Corto,Cliente recurrente
+71,Iracema Villarreal,Aplicar teflon,1.0,2022-10-13,16:00:00,17:00:00,Servicio Corto,Cliente nuevo
+72,Andrea Vela,"calle Ontario 146
+Es lo fijo de 5 plazas $550 Son 12 desmontables $600
+2 decorativos grandes $80
+Y 3 decorativos pequeños $90
+Para un total de $1,320",2.0,2022-10-14,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+73,Sra lety denigris,Sin comentarios,2.0,2022-10-14,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+74,Karen Solis Ayala,Sala 321 con desmontables,1.5,2022-10-14,14:30:00,16:00:00,Servicio Medio,Cliente nuevo
+75,Dra Paola mejía,Sala y sillas,2.0,2022-10-14,16:00:00,18:00:00,Servicio Medio,Cliente nuevo
+76,María Luisa Velazquez,Sala fija 600,1.25,2022-10-15,10:00:00,11:15:00,Servicio Corto,Cliente nuevo
+77,Bertha Hinojosa,Entrega,0.75,2022-10-15,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+78,Antonio García,"sala lo fijo de $600 y cada desmontable  en $50
+Recoger tapetes",1.5,2022-10-15,12:00:00,13:30:00,Servicio Medio,Cliente nuevo
+79,Rosario Saenz,Sin comentarios,0.75,2022-10-15,12:00:00,12:45:00,Servicio Corto,Cliente nuevo
+80,Sonora,Sin comentarios,0.0,2022-10-17,20:00:00,00:00:00,Servicio Corto,Cliente recurrente
+81,Escobedo,Sin comentarios,0.75,2022-10-17,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+82,Mizael Rocha,Sala 650 y decorativos de 30,1.75,2022-10-17,09:15:00,11:00:00,Servicio Medio,Cliente recurrente
+83,Lic Maleny Aragus,"Tapete
+8118213260",1.0,2022-10-17,13:00:00,14:00:00,Servicio Corto,Cliente nuevo
+84,Evelyn Rodríguez photo,Banca y camioneta,3.25,2022-10-17,15:00:00,18:15:00,Servicio Largo,Cliente nuevo
+85,Gilberto Garza,"La escondida 435
+Auto",2.5,2022-10-18,09:00:00,11:30:00,Servicio Medio,Cliente nuevo
+86,Pedro Garza,Sillas SA,0.75,2022-10-18,14:00:00,14:45:00,Servicio Corto,Cliente nuevo
+87,Jimena Knoll,"Sillón c desmontables y 6 sillas $1000 total
+Sierra huichola 1415 Vistancia 1er sector",2.0,2022-10-19,09:00:00,11:00:00,Servicio Medio,Cliente recurrente
+88,Nadia Pecina,Individual,1.0,2022-10-19,11:00:00,12:00:00,Servicio Corto,Cliente nuevo
+89,Caro de Burgos,Sin comentarios,2.5,2022-10-19,12:30:00,15:00:00,Servicio Medio,Cliente nuevo
+90,Roberto vaquera,Sala 22 $500,1.0,2022-10-19,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+91,Jorge Rodriguez banregio,Auto,2.5,2022-10-20,09:45:00,12:15:00,Servicio Medio,Cliente nuevo
+92,Jimena Knoll,"Sala 3,2 ya pagado
+Sierra huichola 1415 Vistancia 1er sector",1.0,2022-10-20,13:30:00,14:30:00,Servicio Corto,Cliente recurrente
+93,Miguel Angel Hdz,Descanset $250,0.75,2022-10-20,15:00:00,15:45:00,Servicio Corto,Cliente recurrente
+94,Angel Villarreal,"Gallarda 610, El Sabino 
+Individual, sala y sillas",2.0,2022-10-20,16:00:00,18:00:00,Servicio Medio,Cliente nuevo
+95,Saltillo,Sin comentarios,0.75,2022-10-21,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+96,Yadira Hernández Sánchez,"Soul 750, sala y sillas",5.0,2022-10-21,10:00:00,15:00:00,Servicio Largo,Cliente nuevo
+97,Laurita olivares,"Sillas, influencer",1.0,2022-10-21,17:00:00,18:00:00,Servicio Corto,Cliente recurrente
+98,Homero Castillo,"Sala $750
+King $700
+Matrimonial $500
+Total $1,950 con descuento OB $1,750",2.5,2022-10-22,10:00:00,12:30:00,Servicio Medio,Cliente nuevo
+99,Dante de Leon,"Colchon y sala, luego al consultorio",2.0,2022-10-22,13:30:00,15:30:00,Servicio Medio,Cliente recurrente
+100,Mariana Tamez,$200 cada sillón individual,1.5,2022-10-24,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+101,Esteban Andrada,Colchones y sillon,2.0,2022-10-24,11:30:00,13:30:00,Servicio Medio,Cliente nuevo
+102,Paty de Anda,"Sala 3,1 fija $500
+Sillas $80 cu",1.75,2022-10-24,14:30:00,16:15:00,Servicio Medio,Cliente recurrente
+103,Aracely galarza,"Fam legarreta galarza
+Entrega",1.0,2022-10-24,16:30:00,17:30:00,Servicio Corto,Cliente nuevo
+104,Lucy mamá de rey,Sala,1.25,2022-10-24,16:45:00,18:00:00,Servicio Corto,Cliente nuevo
+105,Marycarmen Cardenas,"Sala piel $600, individuales $150cu
+Recoger tapete",1.75,2022-10-25,09:15:00,11:00:00,Servicio Medio,Cliente nuevo
+106,Gladys reyes,Recolección,0.75,2022-10-25,11:00:00,11:45:00,Servicio Corto,Cliente recurrente
+107,Katherine Bogle,"2 sillones, $450 c desmontables y otro de $350",1.5,2022-10-25,11:30:00,13:00:00,Servicio Medio,Cliente nuevo
+108,Deyanira yunan,"Sillas y banca, $100 de traslado
+Carlos I 1510 Arbado Monarca",1.0,2022-10-25,13:00:00,14:00:00,Servicio Corto,Cliente nuevo
+109,Jesús Jiménez,"Esperanza 215 
+
+Sala 321 $750 y sofá cama $350 + 50 cada desmontable",1.75,2022-10-25,15:00:00,16:45:00,Servicio Medio,Cliente nuevo
+110,Claudia peña,Recolección,0.75,2022-10-25,16:30:00,17:15:00,Servicio Corto,Cliente nuevo
+111,Salim camacho,Sala $650 + 50 cada desmontable,1.5,2022-10-26,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+112,Angelica García,"Pino monterrey 409 sector bosco, puerta de hierro
+3 individuales",2.0,2022-10-26,11:30:00,13:30:00,Servicio Medio,Cliente nuevo
+113,Ervin Tijerina,Matrimonial,1.0,2022-10-26,14:00:00,15:00:00,Servicio Corto,Cliente recurrente
+114,Valeria Galvan,Sillón con 2 respaldos desmontables $500 y $150 individual,1.25,2022-10-26,15:30:00,16:45:00,Servicio Corto,Cliente nuevo
+115,Pago a Jessy $358,Limpiaalfombras karcher,0.75,2022-10-27,01:00:00,01:45:00,Servicio Corto,Cliente recurrente
+116,Leslie Keller,Sala 1390 y recoger tapete,2.0,2022-10-27,09:00:00,11:00:00,Servicio Medio,Cliente recurrente
+117,Anel Guerra,Pasar por tapetes,0.75,2022-10-27,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+118,Alissa Haralson,Cerrada 4 #120 col. Villa Chipinque,0.75,2022-10-27,11:45:00,12:30:00,Servicio Corto,Cliente recurrente
+119,Nora González,Sala L fijo $650,1.0,2022-10-27,12:00:00,13:00:00,Servicio Corto,Cliente recurrente
+120,Nancy delgado,Sin comentarios,0.75,2022-10-27,12:30:00,13:15:00,Servicio Corto,Cliente nuevo
+121,Karla Villarreal,Entrega tapete y aplicar teflón,1.0,2022-10-27,13:00:00,14:00:00,Servicio Corto,Cliente recurrente
+122,Karla Rodríguez,sala 32 de $600,1.5,2022-10-27,15:00:00,16:30:00,Servicio Medio,Cliente recurrente
+123,Jorge Casique,"Interior B 
+Sala 31 fijo $500",0.75,2022-10-27,17:00:00,17:45:00,Servicio Corto,Cliente nuevo
+124,Andres Gallardo,2 autos,5.0,2022-10-28,09:00:00,14:00:00,Servicio Largo,Cliente recurrente
+125,Claudia Lambarri,"Siendo 6 de 50, 4 de 70 y lo fijo serían $1180",1.5,2022-10-28,15:00:00,16:30:00,Servicio Medio,Cliente nuevo
+126,Sinuhe Moreno,Sillón,1.0,2022-10-28,17:00:00,18:00:00,Servicio Corto,Cliente recurrente
+127,Miguel Angel Hdz,Auto $750,2.75,2022-10-29,10:00:00,12:45:00,Servicio Medio,Cliente recurrente
+128,Escobedo san nico,Sin comentarios,0.75,2022-10-31,05:00:00,05:45:00,Servicio Corto,Cliente nuevo
+129,Patricia Jacobo,"Siracusa 106
+Sala $600 y sillas de $80",1.5,2022-10-31,12:00:00,13:30:00,Servicio Medio,Cliente nuevo
+130,Sinuhe Moreno,Sin comentarios,3.25,2022-10-31,16:00:00,19:15:00,Servicio Largo,Cliente recurrente
+131,Cumbres,Sin comentarios,0.75,2022-11-01,04:00:00,04:45:00,Servicio Corto,Cliente recurrente
+132,Lily Fernández,Sala,1.5,2022-11-01,12:30:00,14:00:00,Servicio Medio,Cliente nuevo
+133,Mayela rayas,"Pino monterrey 407
+2 individuales y 1 matrimonial",2.0,2022-11-01,15:00:00,17:00:00,Servicio Medio,Cliente nuevo
+134,Caro garibaldi,Recolección,0.75,2022-11-01,17:00:00,17:45:00,Servicio Corto,Cliente nuevo
+135,Paola Maldonado,"Paola Maldonado 
+Calzada Danesa 110
+Calzadas de Anáhuac 
+Escobedo
+2 sillones de 150 cu y 2 sillas de 100 cu",1.5,2022-11-02,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+136,Andres Gallardo,Sin comentarios,1.0,2022-11-02,10:00:00,11:00:00,Servicio Corto,Cliente recurrente
+137,Marcela Farias,Recolección,0.75,2022-11-02,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+138,Bertha Hernández,Sala 221 y futon,1.5,2022-11-02,12:00:00,13:30:00,Servicio Medio,Cliente nuevo
+139,Gaby Treviño Luar,Sin comentarios,0.75,2022-11-02,12:00:00,12:45:00,Servicio Corto,Cliente nuevo
+140,Amadeo Escobar Lopez,sala tiene un costo de $600 pesos y 40 cada desmontable,1.5,2022-11-02,14:30:00,16:00:00,Servicio Medio,Cliente nuevo
+141,Blanca Vazquez,Individual,1.0,2022-11-02,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+142,Cristina Orozco Pineda,"#308
+Sala 221 $650 con decorativos de $40cu",1.5,2022-11-02,18:00:00,19:30:00,Servicio Medio,Cliente nuevo
+143,Saltillo,Sin comentarios,0.75,2022-11-03,07:00:00,07:45:00,Servicio Corto,Cliente recurrente
+144,Alissa Haralson,"Cerrada 4 #120 col. Villa Chipinque
+Entrega",0.75,2022-11-03,10:30:00,11:15:00,Servicio Corto,Cliente recurrente
+145,Laurita olivares,"Suv y teflón 
+$750",3.0,2022-11-03,11:00:00,14:00:00,Servicio Largo,Cliente recurrente
+146,Davia Ramírez,"Influencer, sin cobro",1.5,2022-11-03,15:00:00,16:30:00,Servicio Medio,Cliente nuevo
+147,Rau Hoyuela,"Amate 128, Triana Saltillo.
+Sala $600
+Sillas $480
+Tapete PL $270
+Total = $1,350 con descuento $1,200
+Cotizar colchones",2.0,2022-11-03,17:00:00,19:00:00,Servicio Medio,Cliente nuevo
+148,Mcallen,Sin comentarios,0.75,2022-11-04,08:00:00,08:45:00,Servicio Corto,Cliente nuevo
+149,Sinuhe Moreno,Alfombra de energon,9.25,2022-11-04,10:00:00,19:15:00,Servicio Largo,Cliente recurrente
+150,Karla Fernández,4 car seat,1.25,2022-11-04,10:15:00,11:30:00,Servicio Corto,Cliente nuevo
+151,Ana Cristina García,Sala c desmontables,2.0,2022-11-04,13:00:00,15:00:00,Servicio Medio,Cliente nuevo
+152,Anna Lujan,Entrega tapetes,0.75,2022-11-04,13:30:00,14:15:00,Servicio Corto,Cliente nuevo
+153,Lesley Chavez,Alfombra y sala $170,3.75,2022-11-04,15:30:00,19:15:00,Servicio Largo,Cliente recurrente
+154,Like Priscila,"Sillas y sillon
+Influencer gratis",1.5,2022-11-05,11:00:00,12:30:00,Servicio Medio,Cliente nuevo
+155,Karla Rodríguez,Auto,2.5,2022-11-05,12:30:00,15:00:00,Servicio Medio,Cliente recurrente
+156,Leslie Keller,Entrega tapete,0.5,2022-11-05,16:00:00,16:30:00,Servicio Corto,Cliente recurrente
+157,Azucena Lopez,"PAGO CON TARJETA
+Carriola $250 y cojin $100",1.0,2022-11-07,09:00:00,10:00:00,Servicio Corto,Cliente nuevo
+158,Cruz María Cepeda Gzz,4 cojines de $60 cu,0.75,2022-11-07,10:30:00,11:15:00,Servicio Corto,Cliente nuevo
+159,Ivonne García de Maldonado,"Este sillón tiene un costo de $400 lo fijo y $50 cada desmontable
+Este sillón $250 + $50 cada desmontable
+Esta parte $300 + $50 el respaldo desmontable
+ Los sillones individuales tienen un costo cu de $150 + $50 el asiento desmontable",2.5,2022-11-07,12:00:00,14:30:00,Servicio Medio,Cliente nuevo
+160,Mirthala Villarreal Giron,Sala,2.0,2022-11-07,16:00:00,18:00:00,Servicio Medio,Cliente nuevo
+161,Wilmer Laura,Recolección,0.75,2022-11-07,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+162,San nico,Sin comentarios,0.75,2022-11-08,04:00:00,04:45:00,Servicio Corto,Cliente recurrente
+163,Juventino Rivas García,sala fija tiene un costo de $650 y el taburete $100. Y los decorativos $30 cada uno,1.5,2022-11-08,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+164,Sidalia Cardozo,"Privada la llanura 701
+Auto",2.5,2022-11-08,11:00:00,13:30:00,Servicio Medio,Cliente nuevo
+165,Aranza Badillo Benavides,"Sala, sillón y sillas",2.5,2022-11-08,14:30:00,17:00:00,Servicio Medio,Cliente nuevo
+166,Ana Gutierrez de Tejeda,"Baccio 108
+
+Sillón $550 y teflón $500",1.0,2022-11-08,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+167,Cumbres,Sin comentarios,0.75,2022-11-09,04:00:00,04:45:00,Servicio Corto,Cliente recurrente
+168,Rafael Castro Arevalo,Matrimonial,1.25,2022-11-09,09:00:00,10:15:00,Servicio Corto,Cliente nuevo
+169,Pendientes,"Dejar el empaque a Jona
+Recoger tapete de wil
+Entregar tapete de Jacobo",0.75,2022-11-09,10:30:00,11:15:00,Servicio Corto,Cliente nuevo
+170,Jorge García,Sala $550 y sillon $150,1.25,2022-11-09,11:00:00,12:15:00,Servicio Corto,Cliente nuevo
+171,Karen Davila,Sin comentarios,0.75,2022-11-09,13:15:00,14:00:00,Servicio Corto,Cliente nuevo
+172,Mayra Alfaro,Recolección,0.75,2022-11-09,13:30:00,14:15:00,Servicio Corto,Cliente nuevo
+173,Cynthia Figueroa,Sala,1.5,2022-11-09,15:00:00,16:30:00,Servicio Medio,Cliente recurrente
+174,Cristian Rodriguez,Sala y Sillón $700,0.75,2022-11-09,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+175,Sur,Sin comentarios,0.75,2022-11-10,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+176,Paulina camacho,Sillón triple con desmontables $600,1.25,2022-11-10,09:15:00,10:30:00,Servicio Corto,Cliente nuevo
+177,Sarai Mendez,"Sala Gris tiene un costo de $550, y la sala beige lo fijo de $750 + $50 cada desmontable.",1.5,2022-11-10,11:00:00,12:30:00,Servicio Medio,Cliente recurrente
+178,Laura Lozano,Sin comentarios,2.0,2022-11-10,14:00:00,16:00:00,Servicio Medio,Cliente nuevo
+179,Ariana Roman,Recolección,0.75,2022-11-10,16:00:00,16:45:00,Servicio Corto,Cliente nuevo
+180,Jose Antonio Lopez Torres,"De la sala beige veo una sala 3,2,1 y un individual gris y falta un triple. Son 2 triples ($700) un love seat ($250) y dos individuales ($300). En las fotos veo 6 cojines grandes de $40cu ($240) y dos pequeños de $30 cu ($60).
+
+Total $1,550",1.75,2022-11-10,16:30:00,18:15:00,Servicio Medio,Cliente nuevo
+181,San pedro,Sin comentarios,0.75,2022-11-11,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+182,Iliana Alanis,Sin comentarios,1.5,2022-11-11,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+183,Monica Rodriguez,Lavado y teflon de sala y carriola,2.0,2022-11-11,11:00:00,13:00:00,Servicio Medio,Cliente recurrente
+184,Lany Balbuena,Sala $550,1.0,2022-11-11,13:00:00,14:00:00,Servicio Corto,Cliente nuevo
+185,Monica Lopez Chavez,Sin comentarios,0.75,2022-11-11,13:30:00,14:15:00,Servicio Corto,Cliente recurrente
+186,Gabriel Pader,Recolección,0.75,2022-11-11,14:15:00,15:00:00,Servicio Corto,Cliente nuevo
+187,Patricia Ortiz,Sienna $1000,3.0,2022-11-11,15:00:00,18:00:00,Servicio Largo,Cliente nuevo
+188,Saltillo,Sin comentarios,0.75,2022-11-12,09:00:00,09:45:00,Servicio Corto,Cliente recurrente
+189,Laura Garza S,Suv 3f,2.5,2022-11-12,14:00:00,16:30:00,Servicio Medio,Cliente nuevo
+190,Natalia cumple 2,"Evento: fb://event/1289686355184613
+
+Hola a todos! 
+
+Los invitamos a celebrar el cumpleaños de Natalia 
+
+Les dejo la invitación y agradecemos mucho su confirmación 🫶🏻",3.0,2022-11-13,11:00:00,14:00:00,Servicio Largo,Cliente nuevo
+191,Piñata Mela cantu,Sin comentarios,3.0,2022-11-13,11:00:00,14:00:00,Servicio Largo,Cliente nuevo
+192,David Ali,"San fermin 418
+Sala",1.5,2022-11-14,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+193,Janeth Villarreal Lozano,"Luxemburgo 318 colonia privadas de Anahuac sector irlandés sur caseta 4
+Recolección",0.75,2022-11-14,10:30:00,11:15:00,Servicio Corto,Cliente nuevo
+194,Laura garza,"Aries 105
+Recolección",0.5,2022-11-14,13:15:00,13:45:00,Servicio Corto,Cliente nuevo
+195,Abigail Carrillo,"Privada robaina 114
+Matrimonial",1.25,2022-11-14,13:30:00,14:45:00,Servicio Corto,Cliente recurrente
+196,Julio cesar Villarreal Balboa,Auto,3.0,2022-11-14,15:00:00,18:00:00,Servicio Largo,Cliente nuevo
+197,Cumbres,Sin comentarios,0.75,2022-11-15,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+198,Myrna Alvarado,Sala 32 con desmontables $800,1.75,2022-11-15,09:00:00,10:45:00,Servicio Medio,Cliente nuevo
+199,Hector Ruvalcaba,King y recolección,1.25,2022-11-15,11:00:00,12:15:00,Servicio Corto,Cliente nuevo
+200,Juliana Rebollo,"Oviedo 237 bosques de las cumbres
+Recolección",0.75,2022-11-15,12:00:00,12:45:00,Servicio Corto,Cliente nuevo
+201,Betty Rodríguez Benavides,Sillón triple con 3 desmontables $500,1.25,2022-11-15,13:30:00,14:45:00,Servicio Corto,Cliente nuevo
+202,Maria Lobo,"sala 3,2 $600, la banca de $250, los sillones individuales $150 cu. Las sillas $80cu y el tapete PC de $100xm² con esas medidas $600
+
+Quedaría así 
+Sala completa $1,150
+Sillas $1,120
+Tapete $600
+Total= $2,870",3.0,2022-11-15,15:00:00,18:00:00,Servicio Largo,Cliente nuevo
+203,Yanara hepo,Del arroyo 33,0.75,2022-11-15,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+204,Cumbres,Sin comentarios,0.75,2022-11-16,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+205,Elena Garcia,"Muy bien, ese sillón tiene un costo de $450 lo fijo, los respaldos desmontables $50cu y los decorativos $40cu",1.0,2022-11-16,11:00:00,12:00:00,Servicio Corto,Cliente nuevo
+206,Tete Becerril,Taiga 504,3.0,2022-11-16,13:00:00,16:00:00,Servicio Largo,Cliente recurrente
+207,Tía Martha Garibaldi,Sala 321,1.0,2022-11-16,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+208,SN y Escobedo,Sin comentarios,0.75,2022-11-17,05:30:00,06:15:00,Servicio Corto,Cliente nuevo
+209,Gabriela Martínez,2 salas y sillas,3.0,2022-11-17,09:00:00,12:00:00,Servicio Largo,Cliente nuevo
+210,Cynthia Chapa,"Depto 4
+Tapete",0.75,2022-11-17,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+211,Kenya Montemayor,Entrega de 2 tapetes,0.75,2022-11-17,13:00:00,13:45:00,Servicio Corto,Cliente nuevo
+212,Ana Quiñones,"Sala 321 $750 y 6 sillas solo asiento $1,050 total, 
+con terminal",2.0,2022-11-17,13:30:00,15:30:00,Servicio Medio,Cliente recurrente
+213,Carlos Fernández,Suv,0.75,2022-11-17,15:00:00,15:45:00,Servicio Corto,Cliente nuevo
+214,Lety Mtz,"Encino 3000
+Sala L $600 + 50 cada desmontable",1.5,2022-11-17,15:30:00,17:00:00,Servicio Medio,Cliente nuevo
+215,Marisela Lopez de Huerta,Futon $400 y $100 de 3 decorativos,1.0,2022-11-17,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+216,Cumbres,Sin comentarios,0.75,2022-11-19,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+217,MariCarmen Hinojosa,"Recordatorio servicio recurrente 
+Casa 3 colonia Las callejas 
+8 sillas completas $640
+Tapete lana 4.40m2 = $440
+Tapete 2 azul 3.44m2 = $350
+Tapete 3 gris 3.69m2 = $360
+Colchón Queen = $550
+Cabecera Queen = $300
+Sillón individual gris = $200
+Sala c 2 triples gris = $600
+Sala piel c silla y taburete = $700
+Total $4,100",5.0,2022-11-19,09:00:00,14:00:00,Servicio Largo,Cliente recurrente
+218,Rubí Sauceda,Sillas,1.0,2022-11-19,10:00:00,11:00:00,Servicio Corto,Cliente nuevo
+219,Sofia Reyes,"filosofos 315 departamento 302 
+SUV",2.25,2022-11-19,11:30:00,13:45:00,Servicio Medio,Cliente nuevo
+220,Entrega Maria Lobo,Sin comentarios,0.75,2022-11-19,13:00:00,13:45:00,Servicio Corto,Cliente nuevo
+221,Flor Arellano,Sala 650 y 50 cada desmontable,2.0,2022-11-19,14:00:00,16:00:00,Servicio Medio,Cliente nuevo
+222,Melissa Gutiérrez,"Pardela 182, sector alondra",0.75,2022-11-19,17:15:00,18:00:00,Servicio Corto,Cliente recurrente
+223,Sur,Sin comentarios,0.75,2022-11-21,05:30:00,06:15:00,Servicio Corto,Cliente recurrente
+224,Ingrid beylis,"Amalfi 116
+Sala y recolección de tapete",1.5,2022-11-21,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+225,Claudia Nelly Oliva Garza,Sin comentarios,3.0,2022-11-21,11:30:00,14:30:00,Servicio Largo,Cliente nuevo
+226,Mirna Morales,Sala,1.5,2022-11-21,15:15:00,16:45:00,Servicio Medio,Cliente nuevo
+227,Galo Ureña,Sala 22 fija $550,1.0,2022-11-21,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+228,San pedro,Sin comentarios,0.75,2022-11-22,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+229,Lizeth Ontiveros,Sienna 3f y cajuela $1000,3.25,2022-11-22,09:00:00,12:15:00,Servicio Largo,Cliente nuevo
+230,Carolina Gonzalez Martinez,Recolección,0.5,2022-11-22,12:30:00,13:00:00,Servicio Corto,Cliente recurrente
+231,Giovanna Carrillo,Recolección,0.75,2022-11-22,13:15:00,14:00:00,Servicio Corto,Cliente recurrente
+232,Adriana Perez,"Recolección 
+Jade 107",0.75,2022-11-22,14:30:00,15:15:00,Servicio Corto,Cliente recurrente
+233,Adriana Isabel Reyna Chantaca,Sala 321 $750 y queen $600,2.0,2022-11-22,15:00:00,17:00:00,Servicio Medio,Cliente nuevo
+234,Sanico y cumbres,Sin comentarios,0.75,2022-11-23,05:00:00,05:45:00,Servicio Corto,Cliente nuevo
+235,Cristina Santoy,Sin comentarios,3.0,2022-11-23,09:00:00,12:00:00,Servicio Largo,Cliente nuevo
+236,Azucena Mata,"Olivos 234
+Sala 32 $700 y sillas $80cu",1.5,2022-11-23,13:00:00,14:30:00,Servicio Medio,Cliente nuevo
+237,Brenda Vazquez,"Sala 3,2 fija y recolección",1.0,2022-11-23,15:00:00,16:00:00,Servicio Corto,Cliente nuevo
+238,Gina Moreno,Sala,1.0,2022-11-23,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+239,Sur,Sin comentarios,0.75,2022-11-24,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+240,Arhely Covarrubias,"Sala $650 lo fijo y cada respaldo grande $50, y $40 cada decorativo y recolección de 2 tapetes",1.5,2022-11-24,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+241,Jose Pablo Hernández Osorno,Sillones y recolección,1.5,2022-11-24,11:00:00,12:30:00,Servicio Medio,Cliente nuevo
+242,Carolina Gonzalez Martinez,Entrega de tapetes y sala,2.0,2022-11-24,12:30:00,14:30:00,Servicio Medio,Cliente recurrente
+243,Rancho Karlita,Sin comentarios,0.75,2022-11-24,13:00:00,13:45:00,Servicio Corto,Cliente nuevo
+244,Pako Olazaran,3 sillones de $250cu,1.0,2022-11-24,16:00:00,17:00:00,Servicio Corto,Cliente nuevo
+245,Orlando Vazquez,Visita y cotizar tapetes,1.0,2022-11-24,16:00:00,17:00:00,Servicio Corto,Cliente recurrente
+246,Yolanda ibarra,Sala,0.75,2022-11-24,17:30:00,18:15:00,Servicio Corto,Cliente nuevo
+247,Garcia cumbres,Sin comentarios,0.75,2022-11-25,06:00:00,06:45:00,Servicio Corto,Cliente nuevo
+248,Sonia Perez,"Porto fino 111, col porto cumbres
+Silla amarilla $150, sillón blanco $400 fijo, king $700, matrimonial $500 y recolección de tapete",2.5,2022-11-25,09:00:00,11:30:00,Servicio Medio,Cliente nuevo
+249,Melissa Ramirez,"Cantata 111
+Sala 32 $650 y teflon $600",1.25,2022-11-25,12:00:00,13:15:00,Servicio Corto,Cliente nuevo
+250,Mariana Bartolone,Recolección,0.75,2022-11-25,13:30:00,14:15:00,Servicio Corto,Cliente recurrente
+251,Miriam Razo,"Cumbres platinum 
+ sillón de $350 pesos lo fijo, los respaldos serian de $75 cada uno. Y si los decorativos se quieren lavar también serian $50cu",1.0,2022-11-25,14:15:00,15:15:00,Servicio Corto,Cliente nuevo
+252,Melissa Gutiérrez,"Pardela 182, sector alondra
+Sala y entrega de tapetes",0.75,2022-11-25,16:00:00,16:45:00,Servicio Corto,Cliente recurrente
+253,Verónica Álvarez,Matrimonial,0.75,2022-11-25,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+254,Lety lu,Sin comentarios,1.5,2022-11-26,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+255,Mayra Patricia,"Del Paseo#632
+Matrimonial y otro",2.0,2022-11-26,13:00:00,15:00:00,Servicio Medio,Cliente nuevo
+256,Adriana Perez,"Recolección 
+Jade 107",0.75,2022-11-26,14:30:00,15:15:00,Servicio Corto,Cliente recurrente
+257,Ingrid beylis,"Amalfi 116
+Entrega de tapete",1.5,2022-11-26,14:30:00,16:00:00,Servicio Medio,Cliente recurrente
+258,Saltillo,Sin comentarios,0.75,2022-11-28,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+259,Telhma Valerio,Auto,2.75,2022-11-28,10:00:00,12:45:00,Servicio Medio,Cliente nuevo
+260,Sonia Gonzalez,"Rio mugnone 219, privanza Florencia
+Recolección",0.75,2022-11-28,12:30:00,13:15:00,Servicio Corto,Cliente nuevo
+261,Itzel De Leon,"Influencer Saltillo 
+Sala",2.0,2022-11-28,13:00:00,15:00:00,Servicio Medio,Cliente nuevo
+262,Monica Pesqueira,Rincón Vasco 138 Rincón de Alcántara II,2.75,2022-11-28,15:00:00,17:45:00,Servicio Medio,Cliente nuevo
+263,Sur,Sin comentarios,0.75,2022-11-29,04:00:00,04:45:00,Servicio Corto,Cliente recurrente
+264,Christiane Coiffier,2 sillones de $350 lo fijo cu y $50 cada desmontable,2.0,2022-11-29,09:00:00,11:00:00,Servicio Medio,Cliente recurrente
+265,Emma Benavides,"Silla café $100 cu
+Silla solo asiento $50 cu
+Sillón con desmontables $500
+Silla completa $80 cu
+Mecedora $150 cu",2.5,2022-11-29,11:30:00,14:00:00,Servicio Medio,Cliente recurrente
+266,Rebeca Garza de Treviño,Sin comentarios,1.5,2022-11-29,14:30:00,16:00:00,Servicio Medio,Cliente nuevo
+267,María Ponce,Recolección,0.75,2022-11-29,16:45:00,17:30:00,Servicio Corto,Cliente nuevo
+268,Poniente,Sin comentarios,0.75,2022-11-30,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+269,Karla Ibarra,Queen,1.5,2022-11-30,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+270,Fabiola Pimentel,6 sillas de $50 y 4 sillas de $75,1.5,2022-11-30,11:00:00,12:30:00,Servicio Medio,Cliente recurrente
+271,Patricia granados,Recolección,0.75,2022-11-30,12:15:00,13:00:00,Servicio Corto,Cliente recurrente
+272,Luis Carlos Vidal,"Paulina Treviño depto 6a
+Queen y almohadas",1.5,2022-11-30,14:00:00,15:30:00,Servicio Medio,Cliente nuevo
+273,Mayra González,Sala 32 $600 con asientos desmontables $150,1.25,2022-11-30,15:30:00,16:45:00,Servicio Corto,Cliente nuevo
+274,Gabriela Zavala,Sala 2 2 fija $500,1.0,2022-11-30,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+275,La torrada,Teflón,0.75,2022-11-30,22:00:00,22:45:00,Servicio Corto,Cliente recurrente
+276,Escobedo,Sin comentarios,0.75,2022-12-01,05:30:00,06:15:00,Servicio Corto,Cliente recurrente
+277,Anel Sanchez,"Carimate 129 Col Brianzzas, cerrada Monreale 
+Sala de $600 lo fijo y $50 cada respaldo desmontable y la banca $200 pesos
+Para un total de $1,000 y otros mil el teflon",1.5,2022-12-01,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+278,Cristian Rodriguez,Sin comentarios,0.75,2022-12-01,09:00:00,09:45:00,Servicio Corto,Cliente recurrente
+279,Tete Becerril,"Sala pendiente y teflón, dio $4,000 anteriormente
+Taiga 504, privada borealis",1.25,2022-12-01,11:15:00,12:30:00,Servicio Corto,Cliente recurrente
+280,Ana Cecilia Silva,"Cestona 170
+Sillón $350, desmontables $50, decorativos $40 y sillones individuales $200cu",1.25,2022-12-01,13:15:00,14:30:00,Servicio Corto,Cliente nuevo
+281,Melissa Ibarra,Suv 2f,2.5,2022-12-01,15:30:00,18:00:00,Servicio Medio,Cliente recurrente
+282,Gpe,Sin comentarios,0.75,2022-12-02,05:30:00,06:15:00,Servicio Corto,Cliente recurrente
+283,Melissa Mendez,Sala,1.25,2022-12-02,09:00:00,10:15:00,Servicio Corto,Cliente nuevo
+284,Gabriela Galvan,Recolección,0.75,2022-12-02,09:45:00,10:30:00,Servicio Corto,Cliente nuevo
+285,Cecilia Cazares,Recolección,0.75,2022-12-02,10:00:00,10:45:00,Servicio Corto,Cliente nuevo
+286,Otilia Cortina,"Maron 116 entre ámbar y turquesa
+Sillas solo asiento",1.0,2022-12-02,11:00:00,12:00:00,Servicio Corto,Cliente nuevo
+287,Gaby Treviño luar,Futon $400,0.75,2022-12-02,14:00:00,14:45:00,Servicio Corto,Cliente nuevo
+288,Cynthia Valdes,Sala $650 y recolección,1.25,2022-12-02,15:00:00,16:15:00,Servicio Corto,Cliente nuevo
+289,Tirza de Reyna,Recolección,0.75,2022-12-02,15:15:00,16:00:00,Servicio Corto,Cliente recurrente
+290,Sussy Alanis,Futon $350 y sillones individuales de $150,1.25,2022-12-02,16:30:00,17:45:00,Servicio Corto,Cliente recurrente
+291,Elizabeth Rios,Tapete gigante 4 x 6. Mantenimiento c 6 meses,0.75,2022-12-02,17:00:00,17:45:00,Servicio Corto,Cliente nuevo
+292,Leslie Alférez,"Sillón 3ple y taburete $450, teflon $450",1.0,2022-12-03,10:00:00,11:00:00,Servicio Corto,Cliente nuevo
+293,Alicia Carreón,"Ruperto Martínez 1901 Edificio 6 Departamento 2, Pueden entrar por albino Espinoza cruz con Juan escutia
+Sala fija $650",1.0,2022-12-03,11:15:00,12:15:00,Servicio Corto,Cliente nuevo
+294,Monica Rodriguez,Aplicar teflon,0.5,2022-12-03,13:30:00,14:00:00,Servicio Corto,Cliente recurrente
+295,Montserrat Gallegos,Sala y tapete,1.25,2022-12-03,14:00:00,15:15:00,Servicio Corto,Cliente nuevo
+296,Karina Burciaga,$650 de todo lo fijo y $50 cada cojin grande. Los decorativos $30cu,1.0,2022-12-05,09:00:00,10:00:00,Servicio Corto,Cliente nuevo
+297,Gabriela Ayala,"Int 7
+sala fija $700, los sillones blancos $150cu lo fijo y los cojines $40cu",1.5,2022-12-05,11:00:00,12:30:00,Servicio Medio,Cliente nuevo
+298,Juan Pablo Stratta,Sala 650,1.0,2022-12-05,13:00:00,14:00:00,Servicio Corto,Cliente recurrente
+299,Gabriela sanchez,"Recolección 
+Villas moretta 102",0.75,2022-12-05,15:45:00,16:30:00,Servicio Corto,Cliente nuevo
+300,Blanca Espinosa,"Napoles 316, sala sillas y tapetes",1.25,2022-12-05,16:30:00,17:45:00,Servicio Corto,Cliente nuevo
+301,Griselda González,Sala con desmontables,1.75,2022-12-06,09:00:00,10:45:00,Servicio Medio,Cliente nuevo
+302,Martha Alicia Palacios,Recolección,0.75,2022-12-06,10:00:00,10:45:00,Servicio Corto,Cliente recurrente
+303,Liz Ramirez,"Cabo blanco 323
+Futon $400 todo lo fijo. Y el canguro son $550 lo fijo y $50 cada respaldo desmontable",1.5,2022-12-06,11:00:00,12:30:00,Servicio Medio,Cliente nuevo
+304,Dariela Ramirez,"#101 Privada caspio.
+3 tapetes",0.5,2022-12-06,13:00:00,13:30:00,Servicio Corto,Cliente recurrente
+305,Christiane Coiffier,Entrega y corrección,0.75,2022-12-06,13:30:00,14:15:00,Servicio Corto,Cliente recurrente
+306,María Andrea de Leon Montalvo,Sala 321 $750 y 4 desmontables de $50 cu,1.5,2022-12-06,14:30:00,16:00:00,Servicio Medio,Cliente nuevo
+307,Xipantli Salazar,Sala con desmontables y decorativos $900,1.25,2022-12-06,16:30:00,17:45:00,Servicio Corto,Cliente nuevo
+308,Alejandra Martínez Quesada,Sillón individual $200 y tapetes,1.5,2022-12-07,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+309,Mamá de Ale cortez,Sin comentarios,1.25,2022-12-07,10:00:00,11:15:00,Servicio Corto,Cliente nuevo
+310,Cynthia Duque Garza,"Sala de $650 lo fijo y $50 cada respaldo desmontable y $30 cada decorativo, silla de $100 y recoleccion de tapete",1.5,2022-12-07,11:00:00,12:30:00,Servicio Medio,Cliente recurrente
+311,Tete Becerril,Cobrar el restante,0.5,2022-12-07,12:30:00,13:00:00,Servicio Corto,Cliente recurrente
+312,Jovana Trejo,Sala 3 2 fija $600,1.0,2022-12-07,13:00:00,14:00:00,Servicio Corto,Cliente nuevo
+313,Samantha Valdés,"A partir de las 2pm por favor 
+El colchón individual son $400, las sillas de comedor $80cu, la sala de 6plazas fijas $650, el sofá cama ya con los desmontables $500. Para un total de $1,710",2.5,2022-12-07,14:00:00,16:30:00,Servicio Medio,Cliente recurrente
+314,Santiago Camarillo,Recolección,1.0,2022-12-07,15:15:00,16:15:00,Servicio Corto,Cliente nuevo
+315,Gabriela castillo,Monterrey 844,0.75,2022-12-07,16:15:00,17:00:00,Servicio Corto,Cliente nuevo
+316,Tibu,Sin comentarios,1.0,2022-12-07,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+317,Socorro Saenz,"Sala y tapete 
+Al llegar a la privada en la entrada está un teclado tipo interphone, teclear 
+281# y le abro el portón
+ Calle Del viento 181 colonia La Encomienda, sector Molinos del rey en Escobedo NL",1.5,2022-12-08,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+318,Samira del Valle,"Santiago 207
+Suv $850",2.5,2022-12-08,11:00:00,13:30:00,Servicio Medio,Cliente recurrente
+319,Mariana Salazar Ornelas,Recolección,0.75,2022-12-08,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+320,Lorena de Ramirez,"Suv, sala y sillas",3.75,2022-12-08,14:30:00,18:15:00,Servicio Largo,Cliente nuevo
+321,Agua fría,Sin comentarios,0.75,2022-12-09,04:00:00,04:45:00,Servicio Corto,Cliente nuevo
+322,Ruben Benavides Crespo,"Lazaro Cardenas 2225, Valle Oriente, torre Latitud, departamento #1604",1.25,2022-12-09,09:00:00,10:15:00,Servicio Corto,Cliente nuevo
+323,Luisa Cantú,Sillas,0.75,2022-12-09,10:15:00,11:00:00,Servicio Corto,Cliente nuevo
+324,Sussy Alanis,Auto y sillas,2.5,2022-12-09,11:00:00,13:30:00,Servicio Medio,Cliente recurrente
+325,Edith Liliana González,Sala fija y recolección,1.0,2022-12-09,14:00:00,15:00:00,Servicio Corto,Cliente nuevo
+326,Verónica Álvarez,"Son 2 colchones, 1 sillón. Y 4 sillones individuales",1.75,2022-12-09,15:00:00,16:45:00,Servicio Medio,Cliente recurrente
+327,Giovanna Carrillo,Recolección retrabajo,0.75,2022-12-09,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+328,Leticia Araujo,"Valle de nácar 169
+Sala 8p $850, sillas y auto",4.5,2022-12-10,10:00:00,14:30:00,Servicio Largo,Cliente nuevo
+329,Anel Sanchez,"Carimate 129 
+Col Brianzzas
+Cerrada Monreale 
+Sillon 350",0.75,2022-12-10,14:00:00,14:45:00,Servicio Corto,Cliente recurrente
+330,Hector Armendáriz,Sala + 100 de traslado,1.25,2022-12-10,15:15:00,16:30:00,Servicio Corto,Cliente nuevo
+331,Baño pepper,Sin comentarios,0.75,2022-12-11,14:00:00,14:45:00,Servicio Corto,Cliente nuevo
+332,Poniente,Sin comentarios,0.75,2022-12-12,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+333,Leticia Badillo,Sala 750 y desmontables,1.5,2022-12-12,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+334,Aisha Benavides,"Monte Delo #661, Privada Dane, Valle de cumbres
+Sala",1.0,2022-12-12,11:00:00,12:00:00,Servicio Corto,Cliente recurrente
+335,Gerardo Gutierrez,Sala,1.25,2022-12-12,12:30:00,13:45:00,Servicio Corto,Cliente nuevo
+336,Patricia granados,Entrega,0.75,2022-12-12,13:45:00,14:30:00,Servicio Corto,Cliente recurrente
+337,Edith Martinez Bermea,"Van gogh 116, Altrysa sector monet
+Sala L fija $650, sofá cama $550+$50, traslado $100",1.5,2022-12-12,14:00:00,15:30:00,Servicio Medio,Cliente nuevo
+338,Cesar Garza ldi RAG,"Dali 130
+Futon $400",0.5,2022-12-12,15:30:00,16:00:00,Servicio Corto,Cliente nuevo
+339,Luis Felipe Rodríguez,"Sala $450+$50 desmontable, taburete $250cu y sillas de $100cu",1.75,2022-12-12,16:00:00,17:45:00,Servicio Medio,Cliente nuevo
+340,Carretera,Sin comentarios,0.75,2022-12-13,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+341,Orlando Vazquez,Recoger tapetes floor,0.5,2022-12-13,09:00:00,09:30:00,Servicio Corto,Cliente recurrente
+342,Hilda castillo,Sin comentarios,0.75,2022-12-13,10:00:00,10:45:00,Servicio Corto,Cliente nuevo
+343,Christiane Coiffier,Entrega tapete y relavar cojines,1.0,2022-12-13,11:00:00,12:00:00,Servicio Corto,Cliente recurrente
+344,Mariana Bartolone,Entrega,0.75,2022-12-13,11:30:00,12:15:00,Servicio Corto,Cliente recurrente
+345,Sesión faty,Sesión navideña,1.25,2022-12-13,11:30:00,12:45:00,Servicio Corto,Cliente nuevo
+346,Cynthia valdes,Entrega,0.75,2022-12-13,13:00:00,13:45:00,Servicio Corto,Cliente nuevo
+347,Sur,Sin comentarios,0.75,2022-12-14,05:30:00,06:15:00,Servicio Corto,Cliente recurrente
+348,Cristy Treviño,Sala,1.25,2022-12-14,09:00:00,10:15:00,Servicio Corto,Cliente nuevo
+349,Maria Gaona,Sala,1.5,2022-12-14,10:30:00,12:00:00,Servicio Medio,Cliente nuevo
+350,Juan Pablo torrada,Teflon,0.75,2022-12-14,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+351,Gabriela cansino,"Olivo 221, olivos residencial 
+Sala 32 fija",1.25,2022-12-14,13:00:00,14:15:00,Servicio Corto,Cliente nuevo
+352,Emma Benavides,"Sala y sillones pendientes, alfombra de recámara",2.5,2022-12-14,15:00:00,17:30:00,Servicio Medio,Cliente recurrente
+353,Cumbres,Sin comentarios,0.75,2022-12-15,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+354,Abigail Cavazos,"Sala y sillas
+Liceo 639",2.0,2022-12-15,11:00:00,13:00:00,Servicio Medio,Cliente nuevo
+355,Laura noriega,Sala 321 $750 sillas solo asiento $300,1.5,2022-12-15,14:30:00,16:00:00,Servicio Medio,Cliente nuevo
+356,Mizael Rocha,"Privadas del Canadá, calle Toronto 141
+10 cojines de $50cu, y la sala fija de $650, traslado $100. Total son $1,250",1.75,2022-12-15,16:00:00,17:45:00,Servicio Medio,Cliente recurrente
+357,Monica Martinez,Recolección,0.75,2022-12-15,16:30:00,17:15:00,Servicio Corto,Cliente recurrente
+358,Laura laureano,"8182755050
+Col. Valle de los nogales, apodaca 
+Auto, con cajuela $50 extra",2.75,2022-12-16,09:00:00,11:45:00,Servicio Medio,Cliente nuevo
+359,Samira del Valle,"Santiago 207
+Suv $850",2.5,2022-12-16,12:00:00,14:30:00,Servicio Medio,Cliente recurrente
+360,Cristina Guzman Sonora,Recolección,0.75,2022-12-16,13:30:00,14:15:00,Servicio Corto,Cliente nuevo
+361,Anahi Parés Hernández,Fijo $400 desmontables $75cu,1.0,2022-12-16,15:00:00,16:00:00,Servicio Corto,Cliente nuevo
+362,Alma Rosa Leal,"Venecia 307
+Sala $650",1.5,2022-12-16,16:00:00,17:30:00,Servicio Medio,Cliente nuevo
+363,Myriam Rojo,"Recolección 
+Cieuicto Iberico 715, Privadas de Anahuac sector mediterraneo, General Escobedo",0.75,2022-12-16,17:30:00,18:15:00,Servicio Corto,Cliente nuevo
+364,Entrega a wil,Sin comentarios,0.75,2022-12-16,18:30:00,19:15:00,Servicio Corto,Cliente nuevo
+365,Lily Guajardo,Sillones y recolección,1.5,2022-12-17,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+366,Diego Macias,Sin comentarios,0.75,2022-12-17,11:30:00,12:15:00,Servicio Corto,Cliente recurrente
+367,Deara Garza,"Serían 8 sillas de comedor
+1 silla individual 
+2 sillones 
+1 colchón King size
+1 matrimonial 
+2 individuales",4.75,2022-12-17,12:30:00,17:15:00,Servicio Largo,Cliente recurrente
+368,Sur,Sin comentarios,0.75,2022-12-19,04:00:00,04:45:00,Servicio Corto,Cliente recurrente
+369,Nora González,Sala solo lo fijo $650,1.5,2022-12-19,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+370,Hernan Fernández,Auto $750,3.0,2022-12-19,11:00:00,14:00:00,Servicio Largo,Cliente nuevo
+371,Jesús Alanis,"King 700, sala fija 750, traslado $100",1.75,2022-12-19,16:15:00,18:00:00,Servicio Medio,Cliente nuevo
+372,Carretera,Sin comentarios,0.75,2022-12-20,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+373,Laura Rodriguez,Sala L,1.5,2022-12-20,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+374,Brenda de la garza,"Monarca 217
+sala de jardín son
+ 11 desmontables $825
+6 de sillas $300
+Sillón blanco con desmontables y decorativos $780
+Total = $1,905",2.0,2022-12-20,11:00:00,13:00:00,Servicio Medio,Cliente nuevo
+375,Paulina López Flores,Sillón,0.75,2022-12-20,13:15:00,14:00:00,Servicio Corto,Cliente nuevo
+376,Yonhary Martinez Garaban,Suv,2.5,2022-12-20,14:30:00,17:00:00,Servicio Medio,Cliente recurrente
+377,Socorro Saenz,Entrega,0.75,2022-12-20,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+378,Cumbres,Sin comentarios,0.75,2022-12-21,05:30:00,06:15:00,Servicio Corto,Cliente recurrente
+379,Cynthia Duque Garza,Sala y sillas de comedor,1.5,2022-12-21,12:00:00,13:30:00,Servicio Medio,Cliente recurrente
+380,Lorena Escamilla Jimenez,"Van gogh 122
+Base y respaldo king $800, desmanchar cielo de camioneta $200",1.5,2022-12-21,15:00:00,16:30:00,Servicio Medio,Cliente nuevo
+381,Cecilia zamora,Sala,1.5,2022-12-21,16:00:00,17:30:00,Servicio Medio,Cliente nuevo
+382,Ivonne Cantú,6 sillas completas $480 y 1 sillón individual $200,2.0,2022-12-21,17:00:00,19:00:00,Servicio Medio,Cliente nuevo
+383,Gladys reyes,Entrega,0.75,2022-12-21,19:30:00,20:15:00,Servicio Corto,Cliente recurrente
+384,Escobedo,Sin comentarios,0.75,2022-12-22,05:30:00,06:15:00,Servicio Corto,Cliente recurrente
+385,Evelyn Rodríguez,Individual y sillon,1.25,2022-12-22,09:00:00,10:15:00,Servicio Corto,Cliente recurrente
+386,Karina Cavazos,"Calzadas de anahuac frances
+Sala y banca fija $950",1.5,2022-12-22,10:30:00,12:00:00,Servicio Medio,Cliente nuevo
+387,Indhira Salazar,2 salas,1.92,2022-12-22,13:00:00,14:55:00,Servicio Medio,Cliente nuevo
+388,Irene ibarra,"La encomienda sector la vendimia
+Acceso *213
+2 tapetes",0.75,2022-12-22,14:00:00,14:45:00,Servicio Corto,Cliente nuevo
+389,Lethy Garza,"Interior 120.
+Sala y recolección",1.5,2022-12-22,15:15:00,16:45:00,Servicio Medio,Cliente recurrente
+390,Emma Monroy,Sillón y colchon,0.75,2022-12-22,17:30:00,18:15:00,Servicio Corto,Cliente nuevo
+391,Gpe,Sin comentarios,0.75,2022-12-23,04:00:00,04:45:00,Servicio Corto,Cliente recurrente
+392,Nalleli Reyna,Sala 321 con desmontables,1.5,2022-12-23,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+393,Gilbert Aviles,"Acasia 303
+Sillón triple fijo $350",1.0,2022-12-23,11:00:00,12:00:00,Servicio Corto,Cliente nuevo
+394,Deara Garza,Serían 8 sillas de comedor,1.5,2022-12-23,15:00:00,16:30:00,Servicio Medio,Cliente recurrente
+395,Sur,Sin comentarios,0.75,2022-12-27,04:00:00,04:45:00,Servicio Corto,Cliente recurrente
+396,Ruben Aguilar,Sillones $150cu y sillas $100cu,1.25,2022-12-27,09:00:00,10:15:00,Servicio Corto,Cliente nuevo
+397,Maryjose Flores Morales,Suv,3.0,2022-12-27,10:30:00,13:30:00,Servicio Largo,Cliente nuevo
+398,Nati Garza,Sin comentarios,2.0,2022-12-27,15:00:00,17:00:00,Servicio Medio,Cliente nuevo
+399,Alfredo Aguilar,Recolección,0.75,2022-12-27,17:00:00,17:45:00,Servicio Corto,Cliente nuevo
+400,Santa c,Sin comentarios,0.75,2022-12-28,02:30:00,03:15:00,Servicio Corto,Cliente nuevo
+401,Mario García Pompermayer,"Consultorio 502
+Sillones de $150 y sillas de $100cu",2.25,2022-12-28,09:00:00,11:15:00,Servicio Medio,Cliente nuevo
+402,Isabel quiroz,"Prol. Alfonso Reyes #100B , departamento 6A , torre 1 , Col Valle Poniente Santa Catarina, NL CP 66196
+Sala $700 lo fijo, $50 desmontables y $40 decorativos",1.33,2022-12-28,12:00:00,13:20:00,Servicio Corto,Cliente nuevo
+403,Lucía Fernández,"Eje exterior 14
+Torre Iris Oriente 307
+VIA CORDILLERA
+66196
+sillón tiene un costo de $400 pesos lo fijo y laterales, los cojines decorativos $40cu y $75 cada cojin desmontable grande si lo son los asientos y respaldos",1.5,2022-12-28,13:30:00,15:00:00,Servicio Medio,Cliente nuevo
+404,Diego Macias,Pickup,2.25,2022-12-28,15:30:00,17:45:00,Servicio Medio,Cliente recurrente
+405,San Pedro,Sin comentarios,0.75,2022-12-29,04:00:00,04:45:00,Servicio Corto,Cliente nuevo
+406,Ruben E Martinez,"King $700, respaldo $400, alfombra $50x m2.",4.5,2022-12-29,09:00:00,13:30:00,Servicio Largo,Cliente recurrente
+407,Arq Julio Cesar Tego,"Torre 3 PH 312
+Recordar teflón",4.25,2022-12-29,11:00:00,15:15:00,Servicio Largo,Cliente nuevo
+408,Diana Mendoza,King y recolección,1.0,2022-12-29,13:30:00,14:30:00,Servicio Corto,Cliente nuevo
+409,Cinthia Juarez,"Evora 105
+Suv c traslado $900",2.5,2022-12-29,15:00:00,17:30:00,Servicio Medio,Cliente nuevo
+410,Gpe,Sin comentarios,0.75,2022-12-30,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+411,Anahi Lozano,Sala,1.5,2022-12-30,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+412,Erick nuñez,Pickup y king,3.0,2022-12-30,11:00:00,14:00:00,Servicio Largo,Cliente nuevo
+413,Peter Vazquez,"4 sillas lavado y teflon $640
+Sala c desmontables y decorativos, lavado y teflon $1,500.
+Total $2,140
+Para ti $1,850",2.25,2022-12-30,15:00:00,17:15:00,Servicio Medio,Cliente nuevo
+414,Ruben E Martinez,Recoger turbinas,0.5,2022-12-30,15:46:00,16:16:00,Servicio Corto,Cliente recurrente
+415,Gabriela Rodriguez,Recolección,0.75,2023-01-02,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+416,Patricia Treviño Cantú,"Villas Moretta 116 col villas Moretta
+Muy bien, siendo todo fijo la sala tiene un costo de $750, las sillas son de $100cu y el king de $700",3.75,2023-01-03,09:00:00,12:45:00,Servicio Largo,Cliente nuevo
+417,Claudia Benitez,Revisar cojines y limpieza de vidrios,2.25,2023-01-03,10:00:00,12:15:00,Servicio Medio,Cliente recurrente
+418,Paulina Lopez,Cojines y recolección,1.25,2023-01-03,14:00:00,15:15:00,Servicio Corto,Cliente recurrente
+419,Hector Covarrubias,"Depa 83
+Love seat, sillas y colchón",1.5,2023-01-03,15:30:00,17:00:00,Servicio Medio,Cliente recurrente
+420,Wendy Ortiz Bolivar,"8va avenida 424
+Sala $700",1.0,2023-01-03,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+421,San Nicolás,Sin comentarios,0.75,2023-01-04,04:30:00,05:15:00,Servicio Corto,Cliente recurrente
+422,Luis Barron,45 individuales y 5 matrimonial,9.25,2023-01-04,08:45:00,18:00:00,Servicio Largo,Cliente nuevo
+423,Brandon rojas,Sillón $400,1.5,2023-01-04,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+424,Zaida Rdz,Sala c desmontables $950 y 2 sillas de $150 cu,2.0,2023-01-04,12:00:00,14:00:00,Servicio Medio,Cliente nuevo
+425,Dariela Ramirez,"Caspio 101 
+King",1.25,2023-01-04,14:00:00,15:15:00,Servicio Corto,Cliente recurrente
+426,Cumbres,Sin comentarios,0.75,2023-01-05,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+427,Mantenimiento jac,Sin comentarios,0.75,2023-01-05,09:00:00,09:45:00,Servicio Corto,Cliente nuevo
+428,Ana tijerina,3 salas,4.75,2023-01-05,09:15:00,14:00:00,Servicio Largo,Cliente nuevo
+429,Sarai Ibarra,Sala,1.75,2023-01-06,09:00:00,10:45:00,Servicio Medio,Cliente nuevo
+430,Gabriela Rodriguez,"Sala, colchón, sillas y entrega de tapetes",3.0,2023-01-06,11:00:00,14:00:00,Servicio Largo,Cliente recurrente
+431,Ana fajardo,Entrega,0.75,2023-01-06,13:45:00,14:30:00,Servicio Corto,Cliente nuevo
+432,Claudia Benitez,Sala,1.5,2023-01-06,15:00:00,16:30:00,Servicio Medio,Cliente recurrente
+433,Alejandra Rodriguez polendo,2 autos y car seat,4.5,2023-01-07,10:00:00,14:30:00,Servicio Largo,Cliente nuevo
+434,Reynaldo Cantu M,"603 de torre oriente
+Sala c desmontables $800 y alfombra fija $70 x m2",1.5,2023-01-07,15:00:00,16:30:00,Servicio Medio,Cliente nuevo
+435,Sur,Sin comentarios,0.75,2023-01-09,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+436,Diego Gutierrez,"Para ver el servicio a
+2 colchones king
+2 colchones individuales
+1 sala (dos sillones de tres plazas) $650 + 50 cada desmontable 
+2 tapetes (pelo corto)",6.0,2023-01-09,09:00:00,15:00:00,Servicio Largo,Cliente nuevo
+437,Rubi Cisneros,sala roja son $550 lo fijo y $50 cada desmontable. Los decorativos $40 cu. Este sillón son $600 con la cangurera y $75 cada respaldo desmontable,3.0,2023-01-09,15:30:00,18:30:00,Servicio Largo,Cliente recurrente
+438,Eleonora Molina,"Recolección 2.20x2.90 
+PC $640.",0.75,2023-01-09,17:30:00,18:15:00,Servicio Corto,Cliente nuevo
+439,Apodaxa,Sin comentarios,0.75,2023-01-10,06:00:00,06:45:00,Servicio Corto,Cliente nuevo
+440,Oscar Flores,Prius con techo y cajuela $950,3.0,2023-01-10,09:00:00,12:00:00,Servicio Largo,Cliente recurrente
+441,Paulina Lopez,Entrega,0.75,2023-01-10,14:00:00,14:45:00,Servicio Corto,Cliente recurrente
+442,Sonia Vaquera,Sala fija $750 y sillon $250 ya con desmontables,1.25,2023-01-10,16:00:00,17:15:00,Servicio Corto,Cliente nuevo
+443,Natalia Berrun,Sin comentarios,0.75,2023-01-10,17:15:00,18:00:00,Servicio Corto,Cliente recurrente
+444,San pedro,Sin comentarios,0.75,2023-01-11,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+445,Lethy Garza,"Interior 120.
+Base de sala limpieza $200 y teflón $700 + $50 cada cojin. Entrega de tapetes",1.5,2023-01-11,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+446,Di Mendoza,Sin comentarios,1.5,2023-01-11,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+447,Renta Ibarra,Recolección,0.75,2023-01-11,10:15:00,11:00:00,Servicio Corto,Cliente nuevo
+448,Florencia Andreoli,Sala $500 lo fijo y $50 cada desmontable,2.0,2023-01-11,11:00:00,13:00:00,Servicio Medio,Cliente recurrente
+449,Letycia Zavala G,"Depto 5
+Sala 2,1 $400 y $50 cada desmontable",1.0,2023-01-11,14:00:00,15:00:00,Servicio Corto,Cliente nuevo
+450,Alicia Carreon,Alicia en ig. Hay que revisar su sala,0.75,2023-01-11,14:00:00,14:45:00,Servicio Corto,Cliente nuevo
+451,Ludivina Arredondo,"Sillas 125 cu, banca $200, y recolección",0.75,2023-01-11,16:00:00,16:45:00,Servicio Corto,Cliente recurrente
+452,Marcela Cavazos,Sin comentarios,0.75,2023-01-11,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+453,Norma Elia Chapa Romero,2 colchones y sillas solo asiento,2.5,2023-01-12,09:00:00,11:30:00,Servicio Medio,Cliente nuevo
+454,Ale sanico,Sin comentarios,0.75,2023-01-12,11:30:00,12:15:00,Servicio Corto,Cliente nuevo
+455,Ana Laura Garza,"Ind, mat  y sillas",3.5,2023-01-12,12:00:00,15:30:00,Servicio Largo,Cliente recurrente
+456,Lety Lu,Teflon,0.75,2023-01-12,12:00:00,12:45:00,Servicio Corto,Cliente nuevo
+457,Alejandra Quesada Mtz,Recolección y revisar tapetes,0.75,2023-01-12,16:45:00,17:30:00,Servicio Corto,Cliente nuevo
+458,Martha Paez,Tapetes flor $250xm2,0.75,2023-01-12,18:15:00,19:00:00,Servicio Corto,Cliente recurrente
+459,Adriana Alvarez,Recolección,0.75,2023-01-12,19:00:00,19:45:00,Servicio Corto,Cliente nuevo
+460,San pedro,Sin comentarios,0.75,2023-01-13,05:30:00,06:15:00,Servicio Corto,Cliente recurrente
+461,Carolina Aguilar,"Sala 2,1, loceseat y recolección",2.0,2023-01-13,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+462,Liz rubio,Recolección,0.75,2023-01-13,10:00:00,10:45:00,Servicio Corto,Cliente nuevo
+463,Claudia Nelly Oliva G,"Viento de la Sierra 107, Sierra Alta 9no sector
+Recolección",0.75,2023-01-13,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+464,Maricarmen molina,"Sala, sillas, bancos y recolección",2.5,2023-01-13,12:30:00,15:00:00,Servicio Medio,Cliente nuevo
+465,Nataly Garza,Fj,2.0,2023-01-13,16:00:00,18:00:00,Servicio Medio,Cliente nuevo
+466,Oscar Flores,Sin comentarios,1.25,2023-01-13,16:00:00,17:15:00,Servicio Corto,Cliente recurrente
+467,Marcela Banda,Recolección,0.75,2023-01-13,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+468,Fabi marin,Sala $600 + 50 cada desmontable y recolección,1.25,2023-01-14,10:00:00,11:15:00,Servicio Corto,Cliente nuevo
+469,Brenda España,"1 Sala fija $650
+3 respaldos desmontables $150
+4 sillas completas $400
+1 Banca doble $200
+Total = $1,400",1.83,2023-01-14,12:00:00,13:50:00,Servicio Medio,Cliente recurrente
+470,Evelyn Rodríguez,Sesion niños foto,1.0,2023-01-14,14:00:00,15:00:00,Servicio Corto,Cliente recurrente
+471,Abigail Carrillo,"Privada robaina 114, lomas de montecristo
+De $200 extras al costo del servicio de $600 lo fijo + 50 cada desmontable",1.0,2023-01-14,15:00:00,16:00:00,Servicio Corto,Cliente recurrente
+472,Sur,Sin comentarios,0.75,2023-01-16,05:30:00,06:15:00,Servicio Corto,Cliente recurrente
+473,Natalia morelos,"Sendero 210
+King",1.25,2023-01-16,09:00:00,10:15:00,Servicio Corto,Cliente nuevo
+474,Audrey Solis,"Sierra papagayos 1750
+TEFLON Rspaldo y base de cama $600",0.75,2023-01-16,10:15:00,11:00:00,Servicio Corto,Cliente nuevo
+475,Luis Hernández,"Santa genoveva 1428-B
+Matrimonial",1.0,2023-01-16,11:00:00,12:00:00,Servicio Corto,Cliente nuevo
+476,Mariana Guerrero,"1 car seat 
+1 sillón de sala de 3 plazas 
+1 sillon reclinable 
+1 tapete de 2 m x 1.5 m aprox",1.75,2023-01-16,13:00:00,14:45:00,Servicio Medio,Cliente recurrente
+477,Nelly estrada mtz,Sala 32 fija,1.25,2023-01-16,15:00:00,16:15:00,Servicio Corto,Cliente nuevo
+478,Apodaca,Sin comentarios,0.75,2023-01-17,04:30:00,05:15:00,Servicio Corto,Cliente recurrente
+479,Jessica Molina,"colchón toddler $250, la sala 3,2,1 todo fijo es de $750 y las sillas son de $100 cu",2.25,2023-01-17,09:00:00,11:15:00,Servicio Medio,Cliente nuevo
+480,Natalia Berrun,Entrega,0.75,2023-01-17,11:00:00,11:45:00,Servicio Corto,Cliente recurrente
+481,Melania laspina,"Eucalipto 14 
+Entrega Maxi Meza",0.75,2023-01-17,11:45:00,12:30:00,Servicio Corto,Cliente nuevo
+482,Luisa Chavarria,"Campo 104
+Suv, tapetes, sillas y car seat",3.5,2023-01-17,12:00:00,15:30:00,Servicio Largo,Cliente nuevo
+483,Rubi Cisneros,Sala pendiente y entrega tapetes flor,1.25,2023-01-17,13:00:00,14:15:00,Servicio Corto,Cliente recurrente
+484,Claudia Nelly Oliva,Entrega,0.75,2023-01-17,14:30:00,15:15:00,Servicio Corto,Cliente nuevo
+485,María ponce,"Prieto 1937
+Recolección",0.75,2023-01-17,17:15:00,18:00:00,Servicio Corto,Cliente nuevo
+486,Santa,Sin comentarios,0.75,2023-01-18,05:30:00,06:15:00,Servicio Corto,Cliente recurrente
+487,Grecia Salazar,Sala y tapete,1.5,2023-01-18,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+488,Florencia Andreoli,Banco y repasar una parte de sillón. Entrega de tapete,0.75,2023-01-18,11:30:00,12:15:00,Servicio Corto,Cliente recurrente
+489,Gabriela Saucedo,Sala fija y recolección,1.17,2023-01-18,13:30:00,14:40:00,Servicio Corto,Cliente nuevo
+490,Luis Gomez,"Sillón piel $450 con espalda, sala $650 + $50 c desmontable y recolección",1.75,2023-01-18,15:30:00,17:15:00,Servicio Medio,Cliente nuevo
+491,Cumbres y sur,Sin comentarios,0.75,2023-01-19,05:00:00,05:45:00,Servicio Corto,Cliente nuevo
+492,Lorena Montoya,Sala,2.0,2023-01-19,09:00:00,11:00:00,Servicio Medio,Cliente recurrente
+493,Sonia Escamilla,Sala,1.25,2023-01-19,11:00:00,12:15:00,Servicio Corto,Cliente nuevo
+494,Karla Enriquez,King,1.25,2023-01-19,12:30:00,13:45:00,Servicio Corto,Cliente nuevo
+495,Yessica Levinson,"sala con los desmontables y cojines serían $1,050 y el tapete $570. Para un total de $1,620",1.25,2023-01-19,15:00:00,16:15:00,Servicio Corto,Cliente nuevo
+496,Angie Garza,Auto,3.0,2023-01-19,15:30:00,18:30:00,Servicio Largo,Cliente nuevo
+497,Ana Laura Garza,"Ind, mat  y sillas",3.5,2023-01-19,16:30:00,20:00:00,Servicio Largo,Cliente recurrente
+498,Gloria Villarreal de Morales,Sin comentarios,0.75,2023-01-19,16:30:00,17:15:00,Servicio Corto,Cliente nuevo
+499,Nayeli Karina Perez Campos,Recolección,0.75,2023-01-19,17:15:00,18:00:00,Servicio Corto,Cliente nuevo
+500,Santiago,Sin comentarios,0.75,2023-01-20,05:00:00,05:45:00,Servicio Corto,Cliente nuevo
+501,Jessika Morales E,Suv,3.5,2023-01-20,09:00:00,12:30:00,Servicio Largo,Cliente nuevo
+502,Andrea gordillo,Sala y recolección,1.0,2023-01-20,13:30:00,14:30:00,Servicio Corto,Cliente nuevo
+503,Jesús Melendez,Sin comentarios,1.5,2023-01-20,15:00:00,16:30:00,Servicio Medio,Cliente nuevo
+504,Arturo Puente,Sillón triple reclinable $500,1.0,2023-01-20,17:00:00,18:00:00,Servicio Corto,Cliente nuevo
+505,Pagar impuestos,Sin comentarios,0.75,2023-01-20,17:00:00,17:45:00,Servicio Corto,Cliente nuevo
+506,Asenet Rodriguez,"Sala $750 c 1 espalda, 3 sillas de $100 y banca $150",2.0,2023-01-21,02:45:00,04:45:00,Servicio Medio,Cliente nuevo
+507,Sur,Sin comentarios,0.75,2023-01-21,05:30:00,06:15:00,Servicio Corto,Cliente recurrente
+508,Marcela Banda,Recolección,0.75,2023-01-21,10:00:00,10:45:00,Servicio Corto,Cliente recurrente
+509,Samantha Garcia,Auto soul,2.0,2023-01-21,10:00:00,12:00:00,Servicio Medio,Cliente recurrente
+510,Liliana Rivera,"Sala, sillas y banca",2.0,2023-01-21,13:00:00,15:00:00,Servicio Medio,Cliente nuevo
+511,Elizabeth de Leon,Cada uno de estos lo fijo es de $350 + $50 cada cojin y un sillón individual de $200 ñ. Recolección,1.0,2023-01-21,15:00:00,16:00:00,Servicio Corto,Cliente nuevo
+512,Cumbres,Sin comentarios,0.75,2023-01-23,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+513,Paulina Santoyo Martínez,"Aguacolla norte 412, cerradas de cumbres 
+Sala 321 y sillas",1.92,2023-01-23,09:00:00,10:55:00,Servicio Medio,Cliente nuevo
+514,Kathy Treviño,Sala y sillas,2.0,2023-01-23,11:30:00,13:30:00,Servicio Medio,Cliente nuevo
+515,Karina Flores,"Cantabria 5946
+King $700
+Protección anti ácaros $500",1.0,2023-01-23,14:00:00,15:00:00,Servicio Corto,Cliente nuevo
+516,Arturo Nacoud,Sala y sillon,1.25,2023-01-23,15:00:00,16:15:00,Servicio Corto,Cliente nuevo
+517,Ludivina Arredondo,"Calzada 109
+Entrega",0.75,2023-01-23,15:00:00,15:45:00,Servicio Corto,Cliente recurrente
+518,Marilu Sepulveda,Sala +$50 de traslado,1.25,2023-01-23,15:30:00,16:45:00,Servicio Corto,Cliente nuevo
+519,Gpe y sur,Sin comentarios,0.75,2023-01-24,06:00:00,06:45:00,Servicio Corto,Cliente nuevo
+520,Carla Trejo,Matrimonial,1.5,2023-01-24,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+521,Ana Sanchez,"Calle maria 288
+Sala 32 fija y matrimonial",1.5,2023-01-24,11:00:00,12:30:00,Servicio Medio,Cliente nuevo
+522,Alejandra Valencia,King size,1.0,2023-01-24,13:45:00,14:45:00,Servicio Corto,Cliente nuevo
+523,Monica Lavin,Huichola 1400,1.25,2023-01-24,14:30:00,15:45:00,Servicio Corto,Cliente nuevo
+524,Sarai Mendez,King y recolección,1.0,2023-01-24,16:00:00,17:00:00,Servicio Corto,Cliente recurrente
+525,Arianne Bartolini,"Torre iris poniente departamento 401
+Recolección",0.75,2023-01-24,16:15:00,17:00:00,Servicio Corto,Cliente nuevo
+526,Escobedo,Sin comentarios,0.75,2023-01-25,04:00:00,04:45:00,Servicio Corto,Cliente recurrente
+527,Brenda España,Retrabajo de sala,1.25,2023-01-25,09:00:00,10:15:00,Servicio Corto,Cliente recurrente
+528,Katia Elizondo,"Roble 710
+Recolección",0.75,2023-01-25,10:15:00,11:00:00,Servicio Corto,Cliente nuevo
+529,Andrea Flores infl,Sillón y tapete,0.75,2023-01-25,16:45:00,17:30:00,Servicio Corto,Cliente nuevo
+530,Santa y cumbres,Sin comentarios,0.75,2023-01-26,04:00:00,04:45:00,Servicio Corto,Cliente nuevo
+531,Maru Boesch,"Tapete PC $1,190
+Alfombra PC $870
+Colchón toddler $300
+Total $2,360
+Maru Boesch
+Francisco Villa #1700 torre Cielo depto 174 Col La Banda, Santa Catarina NL",1.75,2023-01-26,09:00:00,10:45:00,Servicio Medio,Cliente recurrente
+532,Xóchil Márquez,Sala 321 con asientos desmontables,1.5,2023-01-26,11:29:00,12:59:00,Servicio Medio,Cliente nuevo
+533,Antonio Garza,Colchon y almohadas,1.25,2023-01-26,13:45:00,15:00:00,Servicio Corto,Cliente recurrente
+534,Mara Aguirre,Colchon,1.0,2023-01-26,15:15:00,16:15:00,Servicio Corto,Cliente recurrente
+535,Maru Boesch,"Recolección 
+Maru Boesch
+Francisco Villa #1700 torre Cielo depto 174 Col La Banda, Santa Catarina NL",1.75,2023-01-26,16:00:00,17:45:00,Servicio Medio,Cliente recurrente
+536,Karla Anda,Sala 32,1.25,2023-01-26,16:30:00,17:45:00,Servicio Corto,Cliente nuevo
+537,Alejandro Abraham Gonzalez,Taburete,0.75,2023-01-26,18:00:00,18:45:00,Servicio Corto,Cliente recurrente
+538,San P,Sin comentarios,0.75,2023-01-27,05:00:00,05:45:00,Servicio Corto,Cliente nuevo
+539,Paty Bermudez,Sin comentarios,2.0,2023-01-27,09:00:00,11:00:00,Servicio Medio,Cliente recurrente
+540,Carolina Reynosa,King,1.0,2023-01-27,11:00:00,12:00:00,Servicio Corto,Cliente nuevo
+541,Antonio Garza,Sin comentarios,1.5,2023-01-27,12:30:00,14:00:00,Servicio Medio,Cliente recurrente
+542,Mariana Montero,"Vitalite, 2 sillas de 100 cu",0.75,2023-01-27,15:00:00,15:45:00,Servicio Corto,Cliente nuevo
+543,Arq Rogelio Davila,"Depto E8
+Tapete lavado en seco $120xm² y sillas de $100cu",1.5,2023-01-27,16:00:00,17:30:00,Servicio Medio,Cliente nuevo
+544,Stefanoa Gallegos,"Auto $750, porta bebe $150 y sillon $250",2.5,2023-01-28,10:00:00,12:30:00,Servicio Medio,Cliente nuevo
+545,Martha Paez,"Tapetes flor $250xm2
+Entrega",0.75,2023-01-28,11:00:00,11:45:00,Servicio Corto,Cliente recurrente
+546,Samantha Garcia,Auto y sillones,2.0,2023-01-28,13:30:00,15:30:00,Servicio Medio,Cliente recurrente
+547,Patricia Granados,Sin comentarios,0.75,2023-01-28,14:00:00,14:45:00,Servicio Corto,Cliente recurrente
+548,Claudia Puente,"Futon
+Cuota por reagendar en menos de 24h $250",1.0,2023-01-30,03:45:00,04:45:00,Servicio Corto,Cliente nuevo
+549,San nico,Sin comentarios,0.75,2023-01-30,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+550,Luis Zozaya,"Cayenne con cielo y cajuela. $1,000",3.0,2023-01-30,09:00:00,12:00:00,Servicio Largo,Cliente nuevo
+551,Javier Gonzalez,"Sala
+Escarlata 102",1.5,2023-01-30,13:00:00,14:30:00,Servicio Medio,Cliente recurrente
+552,Janett Briones,"Edificio 3 depa 22
+Sala L y sillas",1.5,2023-01-30,15:00:00,16:30:00,Servicio Medio,Cliente nuevo
+553,Sur,Sin comentarios,0.75,2023-01-31,05:30:00,06:15:00,Servicio Corto,Cliente recurrente
+554,Mirthala Gutierrez,3 colchones y mecedora $150,3.0,2023-01-31,13:00:00,16:00:00,Servicio Largo,Cliente nuevo
+555,Liliana Alanis,"2 sillones individuales $150, un colchón y servicio urgente $150 extra",2.0,2023-02-01,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+556,Adriana tobias,"Sala 32 con 5 desmontables de 60cu, y sillas 125 cu. $1,900 total",2.5,2023-02-03,11:00:00,13:30:00,Servicio Medio,Cliente nuevo
+557,Monica ocañas,"Este sillón es de $450 de lo fijo incluyendo espalda, asientos, respaldo fijo, faldones, descansabrazos y laterales. Los respaldos desmontables tienen un costo extra se $50 cu, otro sillón serían $350 lo fijo con la espalda y los cojines $40 cada uno, Estos sillones rojos son de $200 cu y recolección",2.5,2023-02-03,14:30:00,17:00:00,Servicio Medio,Cliente recurrente
+558,Capacitación stay clean,Sin comentarios,1.5,2023-02-03,16:30:00,18:00:00,Servicio Medio,Cliente nuevo
+559,Santa,Sin comentarios,0.75,2023-02-04,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+560,Veronica Rodríguez,Consultorio 1207,1.5,2023-02-04,12:00:00,13:30:00,Servicio Medio,Cliente nuevo
+561,Jesus Alberto islas perez,Auto,2.0,2023-02-04,14:00:00,16:00:00,Servicio Medio,Cliente nuevo
+562,Andrea Vicario,"Recolección 
+
+Prolongación San Alberto 417
+Torre Kalah
+Col Mirador del Campestre",0.75,2023-02-04,16:00:00,16:45:00,Servicio Corto,Cliente recurrente
+563,Sur,Sin comentarios,0.75,2023-02-06,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+564,Ana Luisa Ganuza,Esta sala lo fijo tiene un costo de $850. Los cojines de respaldo son de $50cu. Los asientos si son doble cara y hay que lavar ambas caras se agregan $50 cada asiento pequeño y $100 cada asiento largo,2.0,2023-02-06,09:00:00,11:00:00,Servicio Medio,Cliente recurrente
+565,Alejandra Soto,"Ambar 214 col El encanto II
+Sería el taburete, cojines, 1 colchón matrimonial, 6 asiento de silla individual, 1 sillon exterior doble desmontable, tapetes y el sillón triple",2.25,2023-02-06,11:30:00,13:45:00,Servicio Medio,Cliente recurrente
+566,Yajaira Rodriguez,Auto y siv 2 filas,3.5,2023-02-06,14:30:00,18:00:00,Servicio Largo,Cliente recurrente
+567,Nueva Linda Vista,Sin comentarios,0.75,2023-02-07,04:00:00,04:45:00,Servicio Corto,Cliente nuevo
+568,Yajaira Rodriguez,Auto retrabajo,3.5,2023-02-07,09:00:00,12:30:00,Servicio Largo,Cliente recurrente
+569,Graciela Plaza,Recolección,1.0,2023-02-07,09:15:00,10:15:00,Servicio Corto,Cliente recurrente
+570,Alejandra Soto,Recolección,0.75,2023-02-07,10:30:00,11:15:00,Servicio Corto,Cliente recurrente
+571,Leslie Alferez,Sala y teflon,1.5,2023-02-07,11:00:00,12:30:00,Servicio Medio,Cliente nuevo
+572,Paola Vazquez Barthel,"Depto 11
+Sala L $650",1.5,2023-02-07,14:00:00,15:30:00,Servicio Medio,Cliente nuevo
+573,Monica ocañas,"Este sillón es de $450 de lo fijo incluyendo espalda, asientos, respaldo fijo, faldones, descansabrazos y laterales. Los respaldos desmontables tienen un costo extra se $50 cu, otro sillón serían $350 lo fijo con la espalda y los cojines $40 cada uno, Estos sillones rojos son de $200 cu y recolección",0.5,2023-02-07,14:15:00,14:45:00,Servicio Corto,Cliente recurrente
+574,Lili Giron,Recolección,0.75,2023-02-07,15:00:00,15:45:00,Servicio Corto,Cliente nuevo
+575,Sarai Mendez,Entrega,0.75,2023-02-07,16:00:00,16:45:00,Servicio Corto,Cliente recurrente
+576,Manuel Velazquez,Revisar cotizar,0.75,2023-02-07,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+577,Cumbres,Sin comentarios,0.75,2023-02-08,05:15:00,06:00:00,Servicio Corto,Cliente recurrente
+578,Monica Lopez Chavez,Individual y recolección,1.25,2023-02-08,09:00:00,10:15:00,Servicio Corto,Cliente recurrente
+579,Tirza de Reyna,Sin comentarios,1.5,2023-02-08,10:30:00,12:00:00,Servicio Medio,Cliente recurrente
+580,Rocío Rangel,"Pissarro 111
+Sala 32 fija $600",1.0,2023-02-08,13:00:00,14:00:00,Servicio Corto,Cliente nuevo
+581,Claudia Corrales,"Niza 104, Nuvo
+Suv $850",2.25,2023-02-08,13:15:00,15:30:00,Servicio Medio,Cliente nuevo
+582,Barbara Sanchez,"Del manantial 60
+Siendo así la sala 3,2,1,1 tiene un costo de $900 y recolección",1.5,2023-02-08,15:00:00,16:30:00,Servicio Medio,Cliente recurrente
+583,Marcela Banda,Entrega,0.75,2023-02-08,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+584,Alejandro SOKLENE,Tapete,0.75,2023-02-08,17:30:00,18:15:00,Servicio Corto,Cliente nuevo
+585,Sur,Sin comentarios,0.75,2023-02-09,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+586,Andrea Vicario,"Sala $550 + 50 cada desmontable y entrega de tapete
+
+Prolongación San Alberto 417
+Torre Kalah
+Col Mirador del Campestre",0.75,2023-02-09,09:00:00,09:45:00,Servicio Corto,Cliente recurrente
+587,Karla Panini,Sala y recolección,3.25,2023-02-09,11:00:00,14:15:00,Servicio Largo,Cliente recurrente
+588,Antonio Garza,Pickup,1.25,2023-02-09,15:00:00,16:15:00,Servicio Corto,Cliente recurrente
+589,Sur,Sin comentarios,0.75,2023-02-10,05:00:00,05:45:00,Servicio Corto,Cliente recurrente
+590,Paty Bermudez,"Sala
+Privada Cataluña 250 casa 21",1.5,2023-02-10,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+591,Ruben E M,Revisar manchas de alfombra,1.0,2023-02-10,11:00:00,12:00:00,Servicio Corto,Cliente nuevo
+592,Sandra flores,"Sala 6p con desmontables, sillas y base matrimonial",2.0,2023-02-10,15:00:00,17:00:00,Servicio Medio,Cliente nuevo
+593,Rey castro,"King, matrimonial y sillon triple, $1200",2.5,2023-02-11,10:00:00,12:30:00,Servicio Medio,Cliente recurrente
+594,Luis Adrian Maldonado,Sala,1.0,2023-02-11,12:45:00,13:45:00,Servicio Corto,Cliente nuevo
+595,Armando Montemayor,Auto$600,2.0,2023-02-11,14:00:00,16:00:00,Servicio Medio,Cliente nuevo
+596,Sur,Sin comentarios,0.75,2023-02-13,07:30:00,08:15:00,Servicio Corto,Cliente recurrente
+597,Norma Alicia Gómez Garza,Sin comentarios,1.5,2023-02-13,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+598,Ana Luisa Ganuza,Retrabajo detalles de descansabrazos y esquinas de cojines,1.0,2023-02-13,11:00:00,12:00:00,Servicio Corto,Cliente recurrente
+599,MariCarmen Hinojosa,"Recordatorio servicio recurrente 
+Casa 3 colonia Las callejas 
+8 sillas completas $640
+Tapete lana 4.40m2 = $440
+Tapete 2 azul 3.44m2 = $350
+Tapete 3 gris 3.69m2 = $360
+Colchón Queen = $550
+Cabecera Queen = $300
+Sillón individual gris = $200
+Sala c 2 triples gris = $600
+Sala piel c silla y taburete = $700
+Total $4,100",5.0,2023-02-13,13:00:00,18:00:00,Servicio Largo,Cliente recurrente
+600,Laura villalobos,Topacio 113 col pedregal del valle,0.75,2023-02-13,13:45:00,14:30:00,Servicio Corto,Cliente nuevo
+601,Patricia Granados,Entrega,0.75,2023-02-13,14:30:00,15:15:00,Servicio Corto,Cliente recurrente
+602,Liliana Olloqui,Recolección,0.75,2023-02-13,14:45:00,15:30:00,Servicio Corto,Cliente nuevo
+603,Barbara Sanchez,"Del manantial 60
+Entrega $1350",1.5,2023-02-13,15:00:00,16:30:00,Servicio Medio,Cliente recurrente
+604,Edith Valadez,Recolección,0.75,2023-02-13,15:30:00,16:15:00,Servicio Corto,Cliente nuevo
+605,Piñata Aimee,Sin comentarios,2.5,2023-02-13,16:30:00,19:00:00,Servicio Medio,Cliente nuevo
+606,Carla Hernández,Sala y honda hrv,4.0,2023-02-14,09:00:00,13:00:00,Servicio Largo,Cliente nuevo
+607,Dra Paola Mejía,"2 Colchones, sillas y sala",2.5,2023-02-14,14:00:00,16:30:00,Servicio Medio,Cliente recurrente
+608,Gabriela Perez,"Contemporani 103
+Sala L fija",1.25,2023-02-14,16:30:00,17:45:00,Servicio Corto,Cliente nuevo
+609,Guadalupe,Sin comentarios,0.75,2023-02-15,06:00:00,06:45:00,Servicio Corto,Cliente nuevo
+610,Nayelli Zapata,"la sala tiene un costo de $600, el king $700 y las sillas $500",4.75,2023-02-15,09:00:00,13:45:00,Servicio Largo,Cliente nuevo
+611,Monica Lopez,Sin comentarios,0.75,2023-02-15,13:00:00,13:45:00,Servicio Corto,Cliente nuevo
+612,Elizza Acco,Sala,1.25,2023-02-15,15:00:00,16:15:00,Servicio Corto,Cliente nuevo
+613,Laura Alicia Tamez,Sala 32 $650,1.5,2023-02-15,16:30:00,18:00:00,Servicio Medio,Cliente nuevo
+614,Sur,Sin comentarios,0.75,2023-02-16,07:30:00,08:15:00,Servicio Corto,Cliente recurrente
+615,Javier Gonzalez,Colchon,1.5,2023-02-16,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+616,Olga Edith Cruz R,"González Ortega 333
+Edif 4 departamento 3
+Centro de Monterrey
+Futon $400",1.0,2023-02-16,11:00:00,12:00:00,Servicio Corto,Cliente recurrente
+617,Olga Edith Cruz R,Colchon y recolección,1.0,2023-02-16,12:00:00,13:00:00,Servicio Corto,Cliente recurrente
+618,Javier reyes,Pickup 4p $700 y rev,2.25,2023-02-16,14:00:00,16:15:00,Servicio Medio,Cliente nuevo
+619,Oscar elizondo,2 sillones $900,1.5,2023-02-16,16:30:00,18:00:00,Servicio Medio,Cliente nuevo
+620,Sur,Sin comentarios,0.75,2023-02-17,07:30:00,08:15:00,Servicio Corto,Cliente recurrente
+621,Paty Bermudez,"Auto
+Privada Cataluña 250 casa 21",2.5,2023-02-17,09:00:00,11:30:00,Servicio Medio,Cliente recurrente
+622,Rosy Martinez,Sala 321,1.25,2023-02-18,10:00:00,11:15:00,Servicio Corto,Cliente nuevo
+623,Ricardo Aguilar Medina,"servicio limpieza de recámara , cabecera y colchón",1.5,2023-02-18,11:30:00,13:00:00,Servicio Medio,Cliente nuevo
+624,Karla Panini,Sin comentarios,2.0,2023-02-18,14:00:00,16:00:00,Servicio Medio,Cliente recurrente
+625,MariCarmen Hinojosa,"Recordatorio servicio recurrente 
+Casa 3 colonia Las callejas 
+8 sillas completas $640
+Tapete lana 4.40m2 = $440
+Tapete 2 azul 3.44m2 = $350
+Tapete 3 gris 3.69m2 = $360
+Colchón Queen = $550
+Cabecera Queen = $300
+Sillón individual gris = $200
+Sala c 2 triples gris = $600
+Sala piel c silla y taburete = $700
+Total $4,100",5.0,2023-02-19,13:00:00,18:00:00,Servicio Largo,Cliente recurrente
+626,David Ali,"San fermin 418
+Sala",1.5,2023-02-20,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+627,Manuel Velazquez,"Depto 2005, Tecmi las Torres
+Sillón 3p con 6 desmontables, matrimonial y cojin de piso ambas caras. $1,150",1.5,2023-02-21,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+628,Cinthya Figueroa,Alfombra oficina,1.5,2023-02-21,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+629,Joe Morales,Matrimonial,1.25,2021-06-01,09:00:00,10:15:00,Servicio Corto,Cliente nuevo
+630,Angélica Mariel,Colchon king,0.75,2021-06-01,10:15:00,11:00:00,Servicio Corto,Cliente nuevo
+631,Denise reyes,Individual,0.92,2021-06-01,11:00:00,11:55:00,Servicio Corto,Cliente nuevo
+632,Crys,Sin comentarios,0.75,2021-06-01,13:00:00,13:45:00,Servicio Corto,Cliente nuevo
+633,Diagnóstico Sucursal Y Griega,Garza Ramirez Ronny,0.5,2021-06-02,18:00:00,18:30:00,Servicio Corto,Cliente recurrente
+634,Solecito Jess,Sillón 350,1.5,2021-06-03,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+635,Betty Acosta,Sala y futon,2.0,2021-06-03,11:00:00,13:00:00,Servicio Medio,Cliente nuevo
+636,Rosy Villarreal,2 sillones 500 + 30,1.92,2021-06-03,14:00:00,15:55:00,Servicio Medio,Cliente recurrente
+637,Casandra Ibarra,"Sala 500
+Departamentos Cantera Residencial justo subiendo plaza vía 02 pasando un car wash a mano derecha está la caseta, ahí en caseta solo hay que decir que van al departamento A303 con Cassandra Ibarra",1.5,2021-06-03,16:00:00,17:30:00,Servicio Medio,Cliente nuevo
+638,Daniela castillo,Sin comentarios,0.75,2021-06-03,17:00:00,17:45:00,Servicio Corto,Cliente nuevo
+639,Diego Solis,Sin comentarios,2.0,2021-06-03,18:00:00,20:00:00,Servicio Medio,Cliente nuevo
+640,Mara Aguirre,Sin comentarios,0.75,2021-06-03,20:00:00,20:45:00,Servicio Corto,Cliente recurrente
+641,Gabriela Rodriguez,"King $600
+Individual $350
+Sala $600
+Tapete $370
+Traslado $100
+Total 2,020",4.5,2021-06-04,09:30:00,14:00:00,Servicio Largo,Cliente recurrente
+642,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-06-05,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+643,Ya pagar a capital,Sin comentarios,0.75,2021-06-05,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+644,Valeria Olachea,Queen y sala,2.25,2021-06-05,09:00:00,11:15:00,Servicio Medio,Cliente recurrente
+645,Konia Cruz,Sala 850,1.5,2021-06-05,11:30:00,13:00:00,Servicio Medio,Cliente recurrente
+646,Linda Valadez,Sin comentarios,1.75,2021-06-05,14:00:00,15:45:00,Servicio Medio,Cliente nuevo
+647,Roberta itzel,Sin comentarios,2.0,2021-06-05,16:00:00,18:00:00,Servicio Medio,Cliente nuevo
+648,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-06-06,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+649,Ximena Cavazos,Sin comentarios,1.0,2021-06-07,15:45:00,16:45:00,Servicio Corto,Cliente nuevo
+650,Liliana de Carrizales,Tapete 800,1.75,2021-06-08,09:00:00,10:45:00,Servicio Medio,Cliente recurrente
+651,Gabriela sifuentes,Sin comentarios,2.0,2021-06-08,14:00:00,16:00:00,Servicio Medio,Cliente nuevo
+652,Konia Valadez,Auto 450,1.5,2021-06-08,16:00:00,17:30:00,Servicio Medio,Cliente nuevo
+653,Jovanni Martinez,Sadasi Garcia,5.0,2021-06-09,10:00:00,15:00:00,Servicio Largo,Cliente nuevo
+654,Carlos Granados,Sala 350 y matrimonial,1.5,2021-06-09,16:00:00,17:30:00,Servicio Medio,Cliente nuevo
+655,Diagnóstico Sucursal Y Griega,Garza Ramirez Ronny,0.5,2021-06-09,18:00:00,18:30:00,Servicio Corto,Cliente recurrente
+656,Natalia González,Sala futon y auto,2.75,2021-06-10,09:00:00,11:45:00,Servicio Medio,Cliente nuevo
+657,Erika Morales,Sin comentarios,0.75,2021-06-10,10:00:00,10:45:00,Servicio Corto,Cliente recurrente
+658,Jose Manuel moreira cruz,Sillón 300,1.5,2021-06-10,12:00:00,13:30:00,Servicio Medio,Cliente nuevo
+659,Fabiola castillo,"Rav4 550
+8110112540",1.75,2021-06-11,09:00:00,10:45:00,Servicio Medio,Cliente nuevo
+660,Carlos Salazar,Colchon y tapete 600,1.75,2021-06-11,12:00:00,13:45:00,Servicio Medio,Cliente nuevo
+661,Edna Flores,"Sala L 500, tapete 350 y traslado 50, 900 total",1.5,2021-06-11,14:30:00,16:00:00,Servicio Medio,Cliente nuevo
+662,Liliana de Carrizales,Sala 600 ya dio 200,1.75,2021-06-11,17:00:00,18:45:00,Servicio Medio,Cliente recurrente
+663,Edith Perez Torres,Serv recurrente $350,0.75,2021-06-11,19:00:00,19:45:00,Servicio Corto,Cliente recurrente
+664,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-06-12,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+665,Ya pagar a capital,Sin comentarios,0.75,2021-06-12,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+666,Osiris Torres,"Son 100 pesos x asiento ($600) + 19 desmontables ($570) sería en total $1,170 y 2 sillas de 80",1.5,2021-06-12,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+667,Erika Morales,Sin comentarios,0.75,2021-06-15,09:00:00,09:45:00,Servicio Corto,Cliente recurrente
+668,Israel carlin,"Pinos 2218
+Sala 780 y 100 traslado",2.0,2021-06-15,10:00:00,12:00:00,Servicio Medio,Cliente nuevo
+669,Rey castro,Sin comentarios,0.75,2021-06-16,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+670,Mario Alberto Graya Lopez,3b hamilton,1.0,2021-06-17,16:00:00,17:00:00,Servicio Corto,Cliente nuevo
+671,Manuel bernal,3b,0.75,2021-06-18,09:00:00,09:45:00,Servicio Corto,Cliente nuevo
+672,Tere Hernández,"16 de Septiembre
+Sala 500",1.5,2021-06-18,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+673,Robert Estrada,Sofá,1.5,2021-06-18,11:30:00,13:00:00,Servicio Medio,Cliente nuevo
+674,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-06-19,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+675,Ya pagar a capital,Sin comentarios,0.75,2021-06-19,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+676,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-06-20,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+677,Montserrat Hinojosa,4b 700,1.0,2021-06-20,10:00:00,11:00:00,Servicio Corto,Cliente nuevo
+678,Jose Luis tamez,Colchon y aspirado cochera y ladrillos,2.0,2021-06-21,10:00:00,12:00:00,Servicio Medio,Cliente nuevo
+679,Silvia alzaga,Sin comentarios,1.75,2021-06-21,13:00:00,14:45:00,Servicio Medio,Cliente nuevo
+680,Priscilla Campo,Sala 600 mas desmontables y sillas de 80,2.75,2021-06-22,09:00:00,11:45:00,Servicio Medio,Cliente nuevo
+681,Alejandra tre,King,1.5,2021-06-22,13:00:00,14:30:00,Servicio Medio,Cliente recurrente
+682,Dani solis,Sin comentarios,0.75,2021-06-22,14:30:00,15:15:00,Servicio Corto,Cliente nuevo
+683,Diana tassia,Sin comentarios,0.75,2021-06-22,17:00:00,17:45:00,Servicio Corto,Cliente nuevo
+684,Fabian Garza,Sin comentarios,1.75,2021-06-23,10:00:00,11:45:00,Servicio Medio,Cliente nuevo
+685,Caro Ramos,Sin comentarios,0.75,2021-06-23,17:30:00,18:15:00,Servicio Corto,Cliente nuevo
+686,Alejandra Tre,Sin comentarios,1.5,2021-06-24,13:00:00,14:30:00,Servicio Medio,Cliente recurrente
+687,Yazmin Quiñones,Ganadora giveaway,1.5,2021-06-24,15:00:00,16:30:00,Servicio Medio,Cliente nuevo
+688,Lili Perez,Tapete king y taburete de 200,2.75,2021-06-25,10:00:00,12:45:00,Servicio Medio,Cliente recurrente
+689,Anilu Herrera,Sala 500,1.5,2021-06-25,14:00:00,15:30:00,Servicio Medio,Cliente nuevo
+690,Rey castro gp,Sin comentarios,0.75,2021-06-25,15:15:00,16:00:00,Servicio Corto,Cliente nuevo
+691,Fernando Aguilar,Serían $550 en total ya con puertas y tablero,1.75,2021-06-25,16:00:00,17:45:00,Servicio Medio,Cliente nuevo
+692,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-06-26,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+693,Ya pagar a capital,Sin comentarios,0.75,2021-06-26,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+694,Diana Ledezma,Sin comentarios,2.0,2021-06-26,10:00:00,12:00:00,Servicio Medio,Cliente nuevo
+695,Valeria Olachea,Auto y 1 espacio de sala cortesía,2.25,2021-06-26,13:00:00,15:15:00,Servicio Medio,Cliente recurrente
+696,Daniela castillo sit consultores,Sin comentarios,0.75,2021-06-26,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+697,Sanitizada Midory Zamarripa,Sin comentarios,1.75,2021-06-28,16:00:00,17:45:00,Servicio Medio,Cliente nuevo
+698,Karla Martinez,Matrimonial,1.25,2021-06-29,09:00:00,10:15:00,Servicio Corto,Cliente nuevo
+699,Erika Morales,Sanitizada casa club,0.75,2021-06-29,11:00:00,11:45:00,Servicio Corto,Cliente recurrente
+700,Alejandra Tre,Sin comentarios,1.25,2021-06-29,13:00:00,14:15:00,Servicio Corto,Cliente recurrente
+701,Doc Pedro Garza,Sin comentarios,1.5,2021-06-30,09:30:00,11:00:00,Servicio Medio,Cliente nuevo
+702,Natalia Tassinari,"600 + 180 de desmontables, sala",1.5,2021-06-30,11:00:00,12:30:00,Servicio Medio,Cliente nuevo
+703,Daniela Duarte,500 + 30,1.75,2021-06-30,14:00:00,15:45:00,Servicio Medio,Cliente recurrente
+704,Liliana Castillo,Sala 600 y decorativos 240,2.0,2021-06-30,16:00:00,18:00:00,Servicio Medio,Cliente recurrente
+705,Ramiro Rendon,Sin comentarios,0.75,2021-06-30,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+706,Selene Gonzalez,2 sillones de 3p y 1 de 1,1.75,2021-07-01,14:00:00,15:45:00,Servicio Medio,Cliente nuevo
+707,Alejandra tre,Sin comentarios,0.75,2021-07-01,16:00:00,16:45:00,Servicio Corto,Cliente recurrente
+708,María Aurora Molina,Sala 5 asientos 500,2.0,2021-07-02,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+709,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-07-03,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+710,Ya pagar a capital,Sin comentarios,0.75,2021-07-03,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+711,Elizabeth Reyma,Los de 2x1.6 tendría un costo de 350 pesos y el chiquito de $200,2.25,2021-07-03,09:00:00,11:15:00,Servicio Medio,Cliente nuevo
+712,Luis Rogelio Magnot,Sala fija 500 y tapete 200,1.5,2021-07-03,11:30:00,13:00:00,Servicio Medio,Cliente nuevo
+713,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-07-04,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+714,Roberto Saldaña Quiroga,Sin comentarios,0.75,2021-07-05,15:00:00,15:45:00,Servicio Corto,Cliente nuevo
+715,Rosy Villarreal,King,1.5,2021-07-05,16:00:00,17:30:00,Servicio Medio,Cliente recurrente
+716,Roman Ibarra,Sin comentarios,0.75,2021-07-05,18:00:00,18:45:00,Servicio Corto,Cliente recurrente
+717,Carla Salinas,"Sala L 500
+
+  Torre 1 depto 1901 Se llama levant dinastia los dptos",1.5,2021-07-06,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+718,Erika Morales,Sin comentarios,0.75,2021-07-06,10:00:00,10:45:00,Servicio Corto,Cliente recurrente
+719,Grupo asesores Carolina ramos,Sanitizada 400,0.75,2021-07-06,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+720,Silvia Saldivar,Depto 204,5.0,2021-07-07,09:00:00,14:00:00,Servicio Largo,Cliente nuevo
+721,Abril Garza,Jesus gonzalez ortega #333 edificio 2 departamento 5. Condominios La Finca,2.75,2021-07-07,15:00:00,17:45:00,Servicio Medio,Cliente nuevo
+722,Edith Perez Torres,Tapete pelo largo,1.75,2021-07-08,11:00:00,12:45:00,Servicio Medio,Cliente recurrente
+723,Rocío Flores,500 + 30 sala,1.5,2021-07-08,14:00:00,15:30:00,Servicio Medio,Cliente nuevo
+724,Regio dental,Cita dentista,1.25,2021-07-09,10:00:00,11:15:00,Servicio Corto,Cliente recurrente
+725,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-07-10,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+726,Ya pagar a capital,Sin comentarios,0.75,2021-07-10,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+727,Ivonne Guerra,"King 600
+Individual 350",2.5,2021-07-10,09:30:00,12:00:00,Servicio Medio,Cliente nuevo
+728,Erika Morales,Sin comentarios,0.75,2021-07-12,10:00:00,10:45:00,Servicio Corto,Cliente recurrente
+729,Marcela Saucedo,"Auto, silla y tapete",3.75,2021-07-13,09:00:00,12:45:00,Servicio Largo,Cliente nuevo
+730,Alejandro Rodriguez nuñez,"Deptos anahuac 11
+Torre A departamento 9 el piso 5
+Sala 500",2.0,2021-07-14,09:15:00,11:15:00,Servicio Medio,Cliente nuevo
+731,Gloria Chavez,"Matrimonial $450
+2 individuales $700
+6 sillas completas $480
+Traslado $100
+Total= $1,730",4.0,2021-07-14,13:00:00,17:00:00,Servicio Largo,Cliente nuevo
+732,Regio dental,Sin comentarios,1.5,2021-07-15,10:30:00,12:00:00,Servicio Medio,Cliente recurrente
+733,Cristina luna,"Privada tampiquito 773
+Sala 3, 2 con desmontables y 50 de traslado",2.0,2021-07-15,13:00:00,15:00:00,Servicio Medio,Cliente nuevo
+734,Daniel Novatos,2 carros,2.25,2021-07-15,15:30:00,17:45:00,Servicio Medio,Cliente nuevo
+735,María concepción Aguirre,3b,0.75,2021-07-15,20:00:00,20:45:00,Servicio Corto,Cliente nuevo
+736,Andrea menchaca,"Austral 304-A
+futon serian $350
+silla con el taburete $150
+sala $600 con el taburete si todo es fijo",2.75,2021-07-16,09:30:00,12:15:00,Servicio Medio,Cliente nuevo
+737,Ruben Soto,Sin comentarios,1.0,2021-07-16,12:45:00,13:45:00,Servicio Corto,Cliente nuevo
+738,Sophia Duron,Auto c pyt y exterior 750,1.5,2021-07-16,17:30:00,19:00:00,Servicio Medio,Cliente recurrente
+739,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-07-17,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+740,Ya pagar a capital,Sin comentarios,0.75,2021-07-17,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+741,Victor Luis Luna Elizondo,"Kia soul 500
+Puertas y tablero 100
+Lavado exterior 200",3.5,2021-07-17,10:00:00,13:30:00,Servicio Largo,Cliente nuevo
+742,Iliana campo,4 recámaras,1.25,2021-07-17,14:00:00,15:15:00,Servicio Corto,Cliente nuevo
+743,Humberto Garza Luna Boogey,Con carros $600,1.25,2021-07-17,15:30:00,16:45:00,Servicio Corto,Cliente nuevo
+744,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-07-18,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+745,Teresa Huertas,Honda hrv 500 + exterior,1.75,2021-07-19,10:00:00,11:45:00,Servicio Medio,Cliente nuevo
+746,Diana Alanis,Sala 500,2.0,2021-07-19,10:00:00,12:00:00,Servicio Medio,Cliente nuevo
+747,Andrea Gonzalez,"Cerrada cestona 136 col. Cerradas de valle alto cp 64984 Monterrey NL
+
+Sala y tapete",2.25,2021-07-19,13:00:00,15:15:00,Servicio Medio,Cliente recurrente
+748,Eleno ortegon,Honda fit 450,1.75,2021-07-19,16:00:00,17:45:00,Servicio Medio,Cliente nuevo
+749,Marcela cavazos,3b 600,0.75,2021-07-19,19:00:00,19:45:00,Servicio Corto,Cliente recurrente
+750,Kike soft,Sin comentarios,6.25,2021-07-20,09:00:00,15:15:00,Servicio Largo,Cliente nuevo
+751,Daniela cabriales,Azcapotzalco 535 colonia Churubusco,1.75,2021-07-20,14:00:00,15:45:00,Servicio Medio,Cliente nuevo
+752,Fabiola Salinas,"Camino del Pino 112, Cumbres Elit Premier Privada Olimpo",0.75,2021-07-21,09:00:00,09:45:00,Servicio Corto,Cliente nuevo
+753,Lourdes Resendez,Sin comentarios,1.5,2021-07-21,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+754,Adriana almaguer,2 casas,1.75,2021-07-21,16:00:00,17:45:00,Servicio Medio,Cliente recurrente
+755,Julio Fernández Jaime Antonio Rodríguez Saenz,Sin comentarios,0.75,2021-07-21,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+756,Edith Perez Torres,Serv recurrente $350,0.75,2021-07-21,19:00:00,19:45:00,Servicio Corto,Cliente recurrente
+757,Andrea Gonzalez,"Cerrada cestona 136 col. Cerradas de valle alto cp 64984 Monterrey NL
+
+Sala y tapete",2.25,2021-07-22,11:15:00,13:30:00,Servicio Medio,Cliente recurrente
+758,Patricio Frías,Auto,1.0,2021-07-22,13:30:00,14:30:00,Servicio Corto,Cliente nuevo
+759,Rosa Maria Caballero,Sin comentarios,0.75,2021-07-22,14:30:00,15:15:00,Servicio Corto,Cliente nuevo
+760,Santiago h Rodriguez,Sin comentarios,0.75,2021-07-22,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+761,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-07-24,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+762,Ya pagar a capital,Sin comentarios,0.75,2021-07-24,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+763,Mauro Alanis,Abarrotes alanis,0.75,2021-07-26,10:00:00,10:45:00,Servicio Corto,Cliente nuevo
+764,Marcelo Rodriguez,Sin comentarios,0.75,2021-07-26,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+765,Yahaira Rodriguez,crisantemo sur 1020 cerradas de anahuac,0.75,2021-07-26,12:00:00,12:45:00,Servicio Corto,Cliente nuevo
+766,Yolanda Hernández,3b,0.75,2021-07-26,13:00:00,13:45:00,Servicio Corto,Cliente nuevo
+767,Elizabeth luna,5b,0.75,2021-07-26,14:00:00,14:45:00,Servicio Corto,Cliente nuevo
+768,Soadibet Zamarripa García,"Perfecto, son 700 por los 4 + 30 pesos cada desmontable o decorativo",3.0,2021-07-27,09:00:00,12:00:00,Servicio Largo,Cliente recurrente
+769,Erika Morales,Sin comentarios,0.75,2021-07-27,10:00:00,10:45:00,Servicio Corto,Cliente recurrente
+770,Emiliano Villagomez,3b,0.75,2021-07-27,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+771,Ricky Cantu,Sin comentarios,0.75,2021-07-27,12:00:00,12:45:00,Servicio Corto,Cliente recurrente
+772,Lidia Najera Melendez,3b,0.75,2021-07-27,17:00:00,17:45:00,Servicio Corto,Cliente nuevo
+773,Erika ortega,Suv cumbres in n out y sillon,2.5,2021-07-28,13:00:00,15:30:00,Servicio Medio,Cliente nuevo
+774,Daniela castillo sit consultores,Sin comentarios,0.75,2021-07-28,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+775,Laura Ramirez,5 tapetes y sillones,5.5,2021-07-29,09:00:00,14:30:00,Servicio Largo,Cliente nuevo
+776,Hector arteaga,Sin comentarios,1.25,2021-07-29,16:00:00,17:15:00,Servicio Corto,Cliente nuevo
+777,Oscar Rolando Mendez Torres,2b 600,0.75,2021-07-30,09:30:00,10:15:00,Servicio Corto,Cliente nuevo
+778,Liliana Castillo,Sala 600 y decorativos 240,3.0,2021-07-30,10:00:00,13:00:00,Servicio Largo,Cliente recurrente
+779,Grecia gamez,Sala 600 si fijo,1.75,2021-07-30,11:00:00,12:45:00,Servicio Medio,Cliente nuevo
+780,Regio dental,Sin comentarios,1.25,2021-07-30,11:30:00,12:45:00,Servicio Corto,Cliente recurrente
+781,Berta Hernández,Auto 450,1.5,2021-07-30,16:00:00,17:30:00,Servicio Medio,Cliente nuevo
+782,Carla Ramirez,4b,0.75,2021-07-30,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+783,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-07-31,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+784,Ya pagar a capital,Sin comentarios,0.75,2021-07-31,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+785,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-08-01,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+786,Erika Morales,Cumbres madeira,0.75,2021-08-02,09:00:00,09:45:00,Servicio Corto,Cliente recurrente
+787,Leticia Torres,3b $600,0.75,2021-08-02,10:00:00,10:45:00,Servicio Corto,Cliente nuevo
+788,Daniela hinojosa,"Daniela Hinojosa
+Tramonte 120 col moretta
+3 recámaras y traslado $650",0.75,2021-08-02,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+789,Padre Jose Luis Gaona,Matrimonial y otros,2.5,2021-08-03,11:00:00,13:30:00,Servicio Medio,Cliente nuevo
+790,Jonathan Flores Vama,Sala 500,1.75,2021-08-03,14:00:00,15:45:00,Servicio Medio,Cliente nuevo
+791,Lupita espinoza,Comercial -100m2,0.75,2021-08-03,16:30:00,17:15:00,Servicio Corto,Cliente nuevo
+792,Comymaq,Sin comentarios,1.0,2021-08-03,17:30:00,18:30:00,Servicio Corto,Cliente nuevo
+793,Gloria Maria Fernández,Sienna 650 y 100 traslado,2.0,2021-08-04,10:00:00,12:00:00,Servicio Medio,Cliente nuevo
+794,Cecilia Zamora,Sala,1.75,2021-08-05,09:00:00,10:45:00,Servicio Medio,Cliente nuevo
+795,Yeni Rendon,Sin comentarios,1.5,2021-08-05,11:00:00,12:30:00,Servicio Medio,Cliente recurrente
+796,Charys,Sin comentarios,0.75,2021-08-05,12:30:00,13:15:00,Servicio Corto,Cliente nuevo
+797,Alejandra Soto,Sala 1100 y tapetes 450 y 400,3.25,2021-08-05,14:00:00,17:15:00,Servicio Largo,Cliente recurrente
+798,María José Macias Garza,Colchon y 2 carros,3.0,2021-08-06,09:00:00,12:00:00,Servicio Largo,Cliente nuevo
+799,Gus Zapiain,Colchon sala y Sanitización,2.0,2021-08-06,13:00:00,15:00:00,Servicio Medio,Cliente nuevo
+800,Gilda de Rodriguez,8 sillas y traslado 450,1.25,2021-08-06,16:00:00,17:15:00,Servicio Corto,Cliente nuevo
+801,Grupo asesores Carolina ramos,Sanitizada 400,0.75,2021-08-06,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+802,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-08-07,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+803,Ya pagar a capital,Sin comentarios,0.75,2021-08-07,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+804,Gustavo Rodriguez,Sin comentarios,0.75,2021-08-07,09:15:00,10:00:00,Servicio Corto,Cliente nuevo
+805,Sophia Duron,"Auto, puertas y tablero c exterior 750
+Adrian Garcia
+8112388862
+La dirección es 
+Calle: Pedernal
+Numero: 104-4
+Colonia: Antiguo corral de piedra
+San Nicolás de los Garza 
+*frente  al parque",2.0,2021-08-07,10:00:00,12:00:00,Servicio Medio,Cliente recurrente
+806,Diana Laura Aparición,"1 cuasra d cordillera Cruza Hector Villarreal
+6 sillas $400",2.0,2021-08-07,13:00:00,15:00:00,Servicio Medio,Cliente nuevo
+807,Mariana echavarria,Sin comentarios,0.75,2021-08-07,13:30:00,14:15:00,Servicio Corto,Cliente nuevo
+808,Regio dental,Sin comentarios,1.5,2021-08-09,10:00:00,11:30:00,Servicio Medio,Cliente recurrente
+809,Juan briones,Sin comentarios,0.75,2021-08-09,11:45:00,12:30:00,Servicio Corto,Cliente recurrente
+810,Gabriel Giron,Sin comentarios,0.75,2021-08-09,12:00:00,12:45:00,Servicio Corto,Cliente nuevo
+811,Sofia arrona,Sin comentarios,2.0,2021-08-09,16:00:00,18:00:00,Servicio Medio,Cliente nuevo
+812,Edith Perez Torres,Serv recurrente $350,0.75,2021-08-09,19:00:00,19:45:00,Servicio Corto,Cliente recurrente
+813,Fercho Vieszca,Sala 700,2.0,2021-08-10,10:00:00,12:00:00,Servicio Medio,Cliente nuevo
+814,Juan briones,Auto c cielo $600,0.75,2021-08-10,14:00:00,14:45:00,Servicio Corto,Cliente recurrente
+815,Yeni Rendon,Auto c cielo,2.25,2021-08-11,09:30:00,11:45:00,Servicio Medio,Cliente recurrente
+816,Arnulfo Garza,Sin comentarios,0.75,2021-08-11,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+817,Rey tamez,King 600,1.75,2021-08-11,12:30:00,14:15:00,Servicio Medio,Cliente nuevo
+818,Ricky Cantu,Sin comentarios,1.75,2021-08-11,15:00:00,16:45:00,Servicio Medio,Cliente recurrente
+819,Halza Guadalupe,Sin comentarios,0.75,2021-08-11,18:15:00,19:00:00,Servicio Corto,Cliente recurrente
+820,Martha Salazar Vega,$500,0.75,2021-08-11,19:30:00,20:15:00,Servicio Corto,Cliente nuevo
+821,Andrea Gordillo,Sin comentarios,2.5,2021-08-12,10:00:00,12:30:00,Servicio Medio,Cliente recurrente
+822,Jovanni Martinez Sadasi,Sin comentarios,3.0,2021-08-12,13:30:00,16:30:00,Servicio Largo,Cliente nuevo
+823,Halza Medic Apodaca,Sin comentarios,0.75,2021-08-12,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+824,Veronica Gonzalez,"Sillas y Sanitización
+Terapie 2ndo piso",0.75,2021-08-12,17:30:00,18:15:00,Servicio Corto,Cliente recurrente
+825,María luisa Rodriguez,"Sala, alfombras, king, matrimonial, auto",5.0,2021-08-13,09:00:00,14:00:00,Servicio Largo,Cliente nuevo
+826,Margarita Treviño,Sin comentarios,0.75,2021-08-13,10:00:00,10:45:00,Servicio Corto,Cliente nuevo
+827,Victor Morales,3b,0.75,2021-08-13,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+828,Emma Aguilar,4b,0.75,2021-08-13,12:15:00,13:00:00,Servicio Corto,Cliente recurrente
+829,Arturo ruiz,5b 800,0.75,2021-08-13,15:00:00,15:45:00,Servicio Corto,Cliente nuevo
+830,Halza Medic Cienega,Sin comentarios,0.75,2021-08-13,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+831,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-08-14,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+832,Ya pagar a capital,Sin comentarios,0.75,2021-08-14,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+833,Cesar Ortiz,3b,0.75,2021-08-14,10:30:00,11:15:00,Servicio Corto,Cliente recurrente
+834,Halzamedic Apodaca,Sin comentarios,0.75,2021-08-14,12:00:00,12:45:00,Servicio Corto,Cliente nuevo
+835,Jonathan Flores,Sin comentarios,0.75,2021-08-14,12:15:00,13:00:00,Servicio Corto,Cliente nuevo
+836,Andrea Gordillo,Sin comentarios,2.25,2021-08-14,12:30:00,14:45:00,Servicio Medio,Cliente recurrente
+837,Juan isidro picon,4b,0.75,2021-08-14,13:00:00,13:45:00,Servicio Corto,Cliente nuevo
+838,Diego escobar,2b depa 500 revisar si es 3b,0.75,2021-08-14,13:45:00,14:30:00,Servicio Corto,Cliente nuevo
+839,Mamá de aisha,$500,0.75,2021-08-14,15:00:00,15:45:00,Servicio Corto,Cliente nuevo
+840,Veronica Gonzalez,Sin comentarios,1.25,2021-08-14,15:45:00,17:00:00,Servicio Corto,Cliente recurrente
+841,Ana Quiñones,Sin comentarios,0.75,2021-08-14,17:30:00,18:15:00,Servicio Corto,Cliente recurrente
+842,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-08-15,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+843,Nancy Fresnillo,Sin comentarios,0.75,2021-08-15,13:00:00,13:45:00,Servicio Corto,Cliente recurrente
+844,Jaime Rodriguez,3b,0.75,2021-08-16,16:00:00,16:45:00,Servicio Corto,Cliente recurrente
+845,Halza Medic,Sin comentarios,0.75,2021-08-16,16:45:00,17:30:00,Servicio Corto,Cliente recurrente
+846,Regio dental,Sin comentarios,1.25,2021-08-17,12:00:00,13:15:00,Servicio Corto,Cliente recurrente
+847,Magdalena de Elizondo,Tapete y base cama,2.5,2021-08-17,14:00:00,16:30:00,Servicio Medio,Cliente nuevo
+848,Halza Guadalupe,Sin comentarios,0.75,2021-08-17,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+849,Magdalena Lozano,4b,0.75,2021-08-17,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+850,David Ali,"Sala 
+Es San Fermin #418 privada San Felipe, en la colinia Capellania, Apodaca NL",1.77,2021-08-18,10:00:00,11:46:00,Servicio Medio,Cliente recurrente
+851,Julia avalos,$500,0.75,2021-08-18,12:30:00,13:15:00,Servicio Corto,Cliente nuevo
+852,Andrea Gonzalez,Tapete,0.75,2021-08-18,13:30:00,14:15:00,Servicio Corto,Cliente recurrente
+853,Halzamedic Escobedo,Sin comentarios,1.0,2021-08-18,16:45:00,17:45:00,Servicio Corto,Cliente recurrente
+854,Emma Aguilar,4b,0.75,2021-08-19,11:00:00,11:45:00,Servicio Corto,Cliente recurrente
+855,Christian Rodriguez,Sin comentarios,2.0,2021-08-19,15:00:00,17:00:00,Servicio Medio,Cliente nuevo
+856,Halza Medic Cienega,Sin comentarios,0.75,2021-08-19,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+857,Mayra Garcia,Sala 600 más desmontables,2.0,2021-08-20,10:00:00,12:00:00,Servicio Medio,Cliente nuevo
+858,Dani Salinas,Sin comentarios,0.75,2021-08-20,10:30:00,11:15:00,Servicio Corto,Cliente nuevo
+859,Cithlaly Gómez,Sin comentarios,0.75,2021-08-20,12:00:00,12:45:00,Servicio Corto,Cliente nuevo
+860,Gabriela salas,Sala 650 con traslado,1.75,2021-08-20,12:00:00,13:45:00,Servicio Medio,Cliente nuevo
+861,Jaime Rodriguez,Sala 2p,1.75,2021-08-20,14:15:00,16:00:00,Servicio Medio,Cliente recurrente
+862,Valeruscha,"Sala y auto
+8115554260
+Liceo 606, Espacio Cumbres,  privada Irwin 
+Entre Av. Cumbres del Sol y Castellana, acceso por Alejandro de Rodas",1.75,2021-08-20,16:00:00,17:45:00,Servicio Medio,Cliente nuevo
+863,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-08-21,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+864,Ya pagar a capital,Sin comentarios,0.75,2021-08-21,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+865,Cesar Ortiz,3b,0.75,2021-08-21,09:00:00,09:45:00,Servicio Corto,Cliente recurrente
+866,Keyla Rodriguez,4b,0.75,2021-08-21,10:00:00,10:45:00,Servicio Corto,Cliente nuevo
+867,Halza Medic Apodaca,Sin comentarios,0.75,2021-08-21,12:00:00,12:45:00,Servicio Corto,Cliente recurrente
+868,Cecy chapa,Sin comentarios,0.75,2021-08-23,09:00:00,09:45:00,Servicio Corto,Cliente recurrente
+869,Raúl Horcasitas,4b,0.75,2021-08-23,10:30:00,11:15:00,Servicio Corto,Cliente recurrente
+870,Carla Ramirez,Sin comentarios,0.75,2021-08-23,11:30:00,12:15:00,Servicio Corto,Cliente recurrente
+871,Diana Tassia,Sin comentarios,0.75,2021-08-23,14:30:00,15:15:00,Servicio Corto,Cliente nuevo
+872,Liz morales,"Sala 650, sillas y queen",2.25,2021-08-23,15:30:00,17:45:00,Servicio Medio,Cliente nuevo
+873,Halza Medic,Sin comentarios,0.75,2021-08-23,16:45:00,17:30:00,Servicio Corto,Cliente recurrente
+874,Karina Martinez,Individual,0.75,2021-08-24,10:00:00,10:45:00,Servicio Corto,Cliente nuevo
+875,Hector Rubio Vargas,Individual,1.0,2021-08-24,12:00:00,13:00:00,Servicio Corto,Cliente nuevo
+876,Rey castro,Sin comentarios,0.75,2021-08-24,13:00:00,13:45:00,Servicio Corto,Cliente recurrente
+877,Anayanci,Sin comentarios,1.75,2021-08-24,14:00:00,15:45:00,Servicio Medio,Cliente nuevo
+878,Dani valladares,Sin comentarios,0.75,2021-08-24,16:00:00,16:45:00,Servicio Corto,Cliente nuevo
+879,Halza Guadalupe,Sin comentarios,0.75,2021-08-24,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+880,Eduardo Martinez,Sin comentarios,0.75,2021-08-25,09:00:00,09:45:00,Servicio Corto,Cliente nuevo
+881,Regio dental,Sin comentarios,1.5,2021-08-25,10:30:00,12:00:00,Servicio Medio,Cliente recurrente
+882,Marcha coby,Sin comentarios,1.75,2021-08-25,12:30:00,14:15:00,Servicio Medio,Cliente nuevo
+883,Halzamedic Escobedo,Sin comentarios,1.0,2021-08-25,16:45:00,17:45:00,Servicio Corto,Cliente recurrente
+884,Soadibet Zamarripa García,Sanitizada constante 6meses $450 c 15 días,1.0,2021-08-26,09:15:00,10:15:00,Servicio Corto,Cliente recurrente
+885,Daniela castillo sit consultores,Sin comentarios,0.75,2021-08-26,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+886,Aisha Benavides,Sala y Sanitización $1000,1.75,2021-08-27,10:00:00,11:45:00,Servicio Medio,Cliente recurrente
+887,Sandra Diaz,King size,2.75,2021-08-27,13:00:00,15:45:00,Servicio Medio,Cliente nuevo
+888,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-08-28,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+889,Ya pagar a capital,Sin comentarios,0.75,2021-08-28,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+890,Johana robles,4b $700,0.75,2021-08-28,09:30:00,10:15:00,Servicio Corto,Cliente nuevo
+891,Cinthia Dávila Hernández,3b $600,0.75,2021-08-28,10:15:00,11:00:00,Servicio Corto,Cliente nuevo
+892,Nelly Lopez,"Sala y colchon $1000
+ALBANA LINDA VISTA
+Departamento: E1 
+Ave. La Luz 299 , Col Americas , Guadalupe Nuevo Leon",2.0,2021-08-28,11:00:00,13:00:00,Servicio Medio,Cliente recurrente
+893,Andrea Menchaca,"Austral 304-A col Contry 
+Corolla 450",1.5,2021-08-28,14:00:00,15:30:00,Servicio Medio,Cliente recurrente
+894,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-08-29,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+895,Berenice campos,Sin comentarios,0.75,2021-08-30,13:00:00,13:45:00,Servicio Corto,Cliente recurrente
+896,Mariana Lozano,3b,0.75,2021-08-30,17:00:00,17:45:00,Servicio Corto,Cliente nuevo
+897,Wesley Nafarrete,Sin comentarios,0.75,2021-08-30,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+898,Diana Moreno,"Liceo 626 espacio cumbres
+2 colchones mat y queen",2.0,2021-08-31,12:00:00,14:00:00,Servicio Medio,Cliente nuevo
+899,Sra uribe,"Cumbres madeira 526
+Sala
+San juana Louisiana 
+De parte de la sra Mirtala",1.5,2021-08-31,14:30:00,16:00:00,Servicio Medio,Cliente nuevo
+900,Cynthia Valdez,Sala 750,1.75,2021-08-31,16:00:00,17:45:00,Servicio Medio,Cliente nuevo
+901,Carolina Ramirez Gonzalez,4b 700,0.75,2021-08-31,19:00:00,19:45:00,Servicio Corto,Cliente nuevo
+902,Roberto banda,"Sala 600
+Av. Alfonso Reyes # 21 Torre Ambar 1 Depto. 611
+Col Via Cordillera",1.75,2021-09-01,09:30:00,11:15:00,Servicio Medio,Cliente nuevo
+903,Yoshiria Perez López,5b 800,0.75,2021-09-01,13:00:00,13:45:00,Servicio Corto,Cliente nuevo
+904,Regio dental,Sin comentarios,1.25,2021-09-01,14:30:00,15:45:00,Servicio Corto,Cliente recurrente
+905,Antonia Vazquez,600 c traslado,0.75,2021-09-01,16:30:00,17:15:00,Servicio Corto,Cliente nuevo
+906,Elena Lopez Samy,Sin comentarios,0.75,2021-09-01,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+907,Andrea Menchaca,Sin comentarios,0.75,2021-09-01,19:00:00,19:45:00,Servicio Corto,Cliente recurrente
+908,Jorge,Sin comentarios,9.75,2021-09-02,09:30:00,19:15:00,Servicio Largo,Cliente nuevo
+909,Raúl Horcasitas,Sin comentarios,0.75,2021-09-03,10:00:00,10:45:00,Servicio Corto,Cliente recurrente
+910,Nelly Lopez,"Auto
+ALBANA LINDA VISTA
+Departamento: E1 
+Ave. La Luz 299 , Col Americas , Guadalupe Nuevo Leon",1.5,2021-09-03,16:00:00,17:30:00,Servicio Medio,Cliente recurrente
+911,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-09-04,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+912,Ya pagar a capital,Sin comentarios,0.75,2021-09-04,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+913,Javier Morales,Varios muebles quemados,4.5,2021-09-04,09:30:00,14:00:00,Servicio Largo,Cliente nuevo
+914,Luis Carlos Villarreal,"Hablar llegando 
+3b",0.75,2021-09-04,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+915,Orla Rodriguez,Sin comentarios,0.75,2021-09-04,14:30:00,15:15:00,Servicio Corto,Cliente nuevo
+916,Cithlaly Gomez,3b,0.75,2021-09-05,10:00:00,10:45:00,Servicio Corto,Cliente nuevo
+917,Grupo asesores Carolina ramos,Sanitizada 400,0.75,2021-09-06,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+918,Edd Galván,Sin comentarios,1.75,2021-09-07,10:00:00,11:45:00,Servicio Medio,Cliente nuevo
+919,Lucy Leal,Umbría tapete,0.75,2021-09-07,13:00:00,13:45:00,Servicio Corto,Cliente nuevo
+920,Tapetes Orla,Sin comentarios,0.75,2021-09-07,15:00:00,15:45:00,Servicio Corto,Cliente nuevo
+921,Irlanda Gonzalez,Sin comentarios,1.25,2021-09-07,16:00:00,17:15:00,Servicio Corto,Cliente nuevo
+922,Andrea Menchaca,Sin comentarios,1.5,2021-09-07,17:30:00,19:00:00,Servicio Medio,Cliente recurrente
+923,Julio Dr,Sala 800,1.75,2021-09-08,12:00:00,13:45:00,Servicio Medio,Cliente nuevo
+924,Claudia Villarreal,Sala,2.0,2021-09-08,14:00:00,16:00:00,Servicio Medio,Cliente nuevo
+925,Soadibet Zamarripa García,Sanitizada constante 6meses $450 c 15 días,1.0,2021-09-09,09:00:00,10:00:00,Servicio Corto,Cliente recurrente
+926,Wilmer Rodriguez,Sin comentarios,0.75,2021-09-09,09:30:00,10:15:00,Servicio Corto,Cliente recurrente
+927,Valeria Cavazos B,"Influencee $0
+Queen, king e individual",3.0,2021-09-09,11:00:00,14:00:00,Servicio Largo,Cliente nuevo
+928,Cinthia Figueroa,Auto,2.0,2021-09-09,14:00:00,16:00:00,Servicio Medio,Cliente nuevo
+929,Diego Gonzalez Calvillo,Sin comentarios,0.75,2021-09-09,15:00:00,15:45:00,Servicio Corto,Cliente nuevo
+930,Sandra Canales,Sin comentarios,1.75,2021-09-09,16:00:00,17:45:00,Servicio Medio,Cliente nuevo
+931,Jorge Sánchez,3b c t. 650,0.75,2021-09-09,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+932,Samantha Garcia,"Queen, 2 sillas y sala",4.5,2021-09-10,09:30:00,14:00:00,Servicio Largo,Cliente recurrente
+933,Regio dental,Sin comentarios,1.0,2021-09-10,11:00:00,12:00:00,Servicio Corto,Cliente recurrente
+934,Nallely Gutierrez,Sin comentarios,1.5,2021-09-10,15:00:00,16:30:00,Servicio Medio,Cliente nuevo
+935,Hector Armendariz,Depto 12,0.75,2021-09-10,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+936,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-09-11,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+937,Ya pagar a capital,Sin comentarios,0.75,2021-09-11,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+938,Selene González,"Por esa parte de la sala serían $250, las sillas de comedor $50 cada una y la de oficina $100",1.5,2021-09-11,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+939,Martha Marroquin,"sala $600 lo fijo, los respaldos desmontables un extra de 50 pesos los respaldos desmontables grandes, 40 los blancos medianos y 30 los pequeños grises",2.25,2021-09-11,11:30:00,13:45:00,Servicio Medio,Cliente nuevo
+940,Julio Cesar Villarreal B,2 mat y sillon,2.0,2021-09-11,14:00:00,16:00:00,Servicio Medio,Cliente nuevo
+941,Monica Martinez,2 tapetes 650,1.75,2021-09-13,10:00:00,11:45:00,Servicio Medio,Cliente recurrente
+942,Martha O Cardenas,Matrimonial y 2 carros,3.75,2021-09-13,13:00:00,16:45:00,Servicio Largo,Cliente recurrente
+943,Marlene Lopez,"Perfecto, la sala tiene un costo de $600. Y cada desmontable 40 
+Y 2 tapetes de 150 cu",2.5,2021-09-14,09:00:00,11:30:00,Servicio Medio,Cliente recurrente
+944,Mariana Bañuelos,Individual y auto,2.0,2021-09-14,13:00:00,15:00:00,Servicio Medio,Cliente nuevo
+945,Alejandro Silva,Sala,1.5,2021-09-14,15:30:00,17:00:00,Servicio Medio,Cliente recurrente
+946,Tefy Cossio influencer,Sillón,1.5,2021-09-15,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+947,Brenda Salas,"Sala 500
+Es Amura 1013, Amura Residencial 
+Monterrey NL 64988",1.75,2021-09-15,13:30:00,15:15:00,Servicio Medio,Cliente nuevo
+948,Ervin Tijerina,600 sala fijo,1.75,2021-09-15,16:00:00,17:45:00,Servicio Medio,Cliente recurrente
+949,Alejandro Silva,Matrimonial,1.75,2021-09-16,10:00:00,11:45:00,Servicio Medio,Cliente recurrente
+950,Minerva Martínez Ortiz,Sala 600,1.75,2021-09-17,09:15:00,11:00:00,Servicio Medio,Cliente nuevo
+951,Claudia Maldonado,2 tapetes 450 y 550,2.0,2021-09-17,12:00:00,14:00:00,Servicio Medio,Cliente nuevo
+952,Ivan de jesus herrera,$600,0.75,2021-09-17,16:00:00,16:45:00,Servicio Corto,Cliente nuevo
+953,Marlene Lopez,Limpiar el piso,0.75,2021-09-17,17:30:00,18:15:00,Servicio Corto,Cliente recurrente
+954,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-09-18,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+955,Ya pagar a capital,Sin comentarios,0.75,2021-09-18,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+956,Nelly Lopez,Sala 500,1.75,2021-09-18,09:00:00,10:45:00,Servicio Medio,Cliente recurrente
+957,Samantha Melchor,Auto,0.75,2021-09-18,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+958,Fabiola Pimentel,King 600,1.25,2021-09-18,12:00:00,13:15:00,Servicio Corto,Cliente recurrente
+959,Welsy,Sin comentarios,0.75,2021-09-18,13:15:00,14:00:00,Servicio Corto,Cliente nuevo
+960,Dj Otto,Sala y tapetes,2.75,2021-09-18,14:00:00,16:45:00,Servicio Medio,Cliente nuevo
+961,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-09-19,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+962,Regio dental,Sin comentarios,1.0,2021-09-20,16:00:00,17:00:00,Servicio Corto,Cliente recurrente
+963,Hioseen,Medir servicio comercial,0.75,2021-09-20,18:15:00,19:00:00,Servicio Corto,Cliente nuevo
+964,Soadibet Zamarripa García,Sanitizada constante 6meses $450 c 15 días,1.0,2021-09-21,09:00:00,10:00:00,Servicio Corto,Cliente recurrente
+965,Salomón Herrera Villarreal,Sala 500 y sillas,2.5,2021-09-21,10:00:00,12:30:00,Servicio Medio,Cliente nuevo
+966,Martha O Cardenas,"2 salas, 1 car seat y 1 carriola",3.75,2021-09-21,13:00:00,16:45:00,Servicio Largo,Cliente recurrente
+967,Valeria Manzo,Sala en santiago,0.75,2021-09-21,17:00:00,17:45:00,Servicio Corto,Cliente nuevo
+968,Daniel Reynosa Sepulveda,"1 king y 3 matrimonial 
+
+Morelos 129 Centro de Garcia NL
+Entre Arnulfo Garcia y Juan de Dios Treviño",3.75,2021-09-22,09:30:00,13:15:00,Servicio Largo,Cliente nuevo
+969,Fabiola Pimentel,"Sillón 500 total
+Llamar antes para abrir",1.5,2021-09-23,09:30:00,11:00:00,Servicio Medio,Cliente recurrente
+970,Ale Perez Cortez,Auto,1.25,2021-09-23,11:15:00,12:30:00,Servicio Corto,Cliente nuevo
+971,Damaris prado,King pipí,1.5,2021-09-23,14:00:00,15:30:00,Servicio Medio,Cliente nuevo
+972,José Treviño arizpe,"Auto c cielo, puertas y todo",1.5,2021-09-23,16:00:00,17:30:00,Servicio Medio,Cliente nuevo
+973,Claudia Garza,"Sala 550 + 40 desmontables, y 50 cada silla solo asiento",1.75,2021-09-24,09:00:00,10:45:00,Servicio Medio,Cliente nuevo
+974,Wilmer Rodriguez,Sin comentarios,0.75,2021-09-24,09:30:00,10:15:00,Servicio Corto,Cliente recurrente
+975,Ángeles Leon,Auto,1.75,2021-09-24,11:00:00,12:45:00,Servicio Medio,Cliente nuevo
+976,Javier Garza,Sin comentarios,1.75,2021-09-24,14:00:00,15:45:00,Servicio Medio,Cliente nuevo
+977,Diego Solis primo,3 sillas,1.0,2021-09-24,16:00:00,17:00:00,Servicio Corto,Cliente nuevo
+978,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-09-25,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+979,Ya pagar a capital,Sin comentarios,0.75,2021-09-25,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+980,Daniela castillo sit consultores,Sin comentarios,0.75,2021-09-26,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+981,Cecy chapa,Sin comentarios,0.75,2021-09-27,09:00:00,09:45:00,Servicio Corto,Cliente recurrente
+982,Patricia espinoza,"Inglaterra #1000 en el fraccionamiento cumbres britania
+Sala 600 fija",1.5,2021-09-27,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+983,Torrada,Prueba a sillas y cotizar limpieza restaurante,1.25,2021-09-28,11:45:00,13:00:00,Servicio Corto,Cliente nuevo
+984,Ivan montana,Sin comentarios,0.75,2021-09-28,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+985,La torrada,Conteo total,0.75,2021-09-29,09:00:00,09:45:00,Servicio Corto,Cliente recurrente
+986,Regio dental,Sin comentarios,1.0,2021-09-29,10:00:00,11:00:00,Servicio Corto,Cliente recurrente
+987,Cita pepper,Sin comentarios,0.75,2021-09-29,11:45:00,12:30:00,Servicio Corto,Cliente nuevo
+988,Berenice campos,Recordatorio 1 mes Sanitización,0.75,2021-09-30,01:00:00,01:45:00,Servicio Corto,Cliente recurrente
+989,Erika Garza Sanchez,2 mat y 1 king 1400,2.5,2021-10-01,10:00:00,12:30:00,Servicio Medio,Cliente recurrente
+990,Cecy Velasco,Sin comentarios,2.5,2021-10-01,13:30:00,16:00:00,Servicio Medio,Cliente nuevo
+991,Sara Levy,"Monte falco 1400 - 23 col los olmos 
+Tapete pelo largo $900",2.0,2021-10-01,16:00:00,18:00:00,Servicio Medio,Cliente nuevo
+992,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-10-02,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+993,Ya pagar a capital,Sin comentarios,0.75,2021-10-02,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+994,Jorge trajo valadez,Auto,1.5,2021-10-02,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+995,Yonhary Martinez Garaban,Suv con puertas y tablero,1.5,2021-10-02,12:00:00,13:30:00,Servicio Medio,Cliente recurrente
+996,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-10-03,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+997,Norma Martínez,"Ciruelos 304, granadas de laderas
+
+600 colchón king
+500 camioenta
+400  sillón (2)
+300 sofá + 30 c desmontable",3.5,2021-10-04,09:00:00,12:30:00,Servicio Largo,Cliente nuevo
+998,Regio dental,Sin comentarios,0.75,2021-10-04,10:00:00,10:45:00,Servicio Corto,Cliente recurrente
+999,Cecy chapa,Casa Club Madeira,1.25,2021-10-04,12:00:00,13:15:00,Servicio Corto,Cliente recurrente
+1000,Megan Becerril medina,Auto,1.25,2021-10-04,13:30:00,14:45:00,Servicio Corto,Cliente nuevo
+1001,Carmen Lucio,Tapete p largo,1.25,2021-10-04,16:30:00,17:45:00,Servicio Corto,Cliente nuevo
+1002,Soadibet Zamarripa García,Sanitizada constante 6meses $450 c 15 días,1.0,2021-10-05,09:00:00,10:00:00,Servicio Corto,Cliente recurrente
+1003,Erika Garza Sanchez,Sala,1.5,2021-10-05,10:00:00,11:30:00,Servicio Medio,Cliente recurrente
+1004,Gerardo Mares,"700, sala L y sillon",1.75,2021-10-05,12:00:00,13:45:00,Servicio Medio,Cliente nuevo
+1005,Zaira Burciaga,"Tapetes, sillas y sala",4.0,2021-10-05,14:00:00,18:00:00,Servicio Largo,Cliente recurrente
+1006,Perla Rocío Colunga Pedraza,"805
+ Sillón c desmontables $450",1.25,2021-10-06,09:15:00,10:30:00,Servicio Corto,Cliente nuevo
+1007,Miguel Rangel,"Sillones, sillas y autos",5.25,2021-10-06,11:30:00,16:45:00,Servicio Largo,Cliente recurrente
+1008,Grupo asesores Carolina ramos,Sanitizada 400,0.75,2021-10-06,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+1009,Marcela Vazquez,"3 individuales $1,050 y tapetes",3.0,2021-10-07,09:00:00,12:00:00,Servicio Largo,Cliente nuevo
+1010,Lorenzo Juarez,Sala 500 con desmontables 30cu y colchon,2.75,2021-10-07,13:15:00,16:00:00,Servicio Medio,Cliente nuevo
+1011,Lili García,3b 600,0.75,2021-10-07,18:00:00,18:45:00,Servicio Corto,Cliente nuevo
+1012,Eduardo Radilla,4b 3 pisos $700,0.75,2021-10-07,19:00:00,19:45:00,Servicio Corto,Cliente nuevo
+1013,Karen Caballero,Sala piel $500,1.5,2021-10-08,10:30:00,12:00:00,Servicio Medio,Cliente nuevo
+1014,Miguel Rangel,Mamamovil $600 y volver a lavar el de piel,3.0,2021-10-08,12:00:00,15:00:00,Servicio Largo,Cliente recurrente
+1015,Dante de Leon,"Rio Orinoco 157 interior F, entre río balsas y río San Juan 
+King y sillon 800",1.75,2021-10-08,15:30:00,17:15:00,Servicio Medio,Cliente recurrente
+1016,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-10-09,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+1017,Ya pagar a capital,Sin comentarios,0.75,2021-10-09,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+1018,Guillermo Castillo,Auto,1.75,2021-10-11,09:15:00,11:00:00,Servicio Medio,Cliente nuevo
+1019,Jaime Cadengo,Crv,1.5,2021-10-11,15:00:00,16:30:00,Servicio Medio,Cliente nuevo
+1020,Alejandro Abraham Gonzalez,Sillas,1.25,2021-10-11,17:00:00,18:15:00,Servicio Corto,Cliente recurrente
+1021,Alejandrina de Anda,Tapete persa y gobelino,2.25,2021-10-12,09:30:00,11:45:00,Servicio Medio,Cliente nuevo
+1022,Zaira Burciaga,Tapete blanco pendiente,2.0,2021-10-12,12:30:00,14:30:00,Servicio Medio,Cliente recurrente
+1023,Oscar Ernesto López olvera,Queen,1.25,2021-10-12,15:45:00,17:00:00,Servicio Corto,Cliente nuevo
+1024,Adriana Soto,Sala y sillas,1.5,2021-10-13,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+1025,Fernando Aniceto,Matrimonial $450 y sala $350 y $50 de traslado. Total $850,1.75,2021-10-13,11:30:00,13:15:00,Servicio Medio,Cliente nuevo
+1026,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-10-16,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+1027,Ya pagar a capital,Sin comentarios,0.75,2021-10-16,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+1028,Olivia Martinez,Queen $550,1.25,2021-10-16,10:00:00,11:15:00,Servicio Corto,Cliente nuevo
+1029,Nancy Becerra,"6 sillas solo asiento 
+TOMAR FOTOS Y VIDEOS PARA INFLUENCER!!!",0.75,2021-10-16,11:30:00,12:15:00,Servicio Corto,Cliente nuevo
+1030,María Lara Lopez,4b,0.75,2021-10-16,12:00:00,12:45:00,Servicio Corto,Cliente nuevo
+1031,Paty Montoya,"La dirección es nacar 147 sector 3
+
+- 2 individuales $700",1.0,2021-10-16,15:00:00,16:00:00,Servicio Corto,Cliente nuevo
+1032,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-10-17,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+1033,Lili Garcia,Sillas y tapete 900,2.25,2021-10-18,10:00:00,12:15:00,Servicio Medio,Cliente nuevo
+1034,Cecy Chapa,Casa club,0.75,2021-10-18,12:00:00,12:45:00,Servicio Corto,Cliente recurrente
+1035,Soadibet Zamarripa García,Sanitizada constante 6meses $450 c 15 días,1.0,2021-10-19,09:00:00,10:00:00,Servicio Corto,Cliente recurrente
+1036,Priscila Elizondo likepriscilla,Tapetes y sillas,3.0,2021-10-19,10:00:00,13:00:00,Servicio Largo,Cliente nuevo
+1037,Olga Araiz,Sala $800,1.5,2021-10-19,14:00:00,15:30:00,Servicio Medio,Cliente nuevo
+1038,Denise Reyes,Tapete,0.75,2021-10-19,16:00:00,16:45:00,Servicio Corto,Cliente nuevo
+1039,Damaris Inzunza,Matrimonial y tapete,2.0,2021-10-22,11:00:00,13:00:00,Servicio Medio,Cliente nuevo
+1040,Melissa Yazbek,Sin comentarios,2.0,2021-10-22,14:00:00,16:00:00,Servicio Medio,Cliente recurrente
+1041,Energon,Sin comentarios,1.25,2021-10-22,17:30:00,18:45:00,Servicio Corto,Cliente nuevo
+1042,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-10-23,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+1043,Ya pagar a capital,Sin comentarios,0.75,2021-10-23,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+1044,Patricia Larson,"Sala 600 + 40 cada desmontable
+La dirección es esperanza 221
+Residencial Almendros
+Frente al colegio Euro Americano",1.5,2021-10-23,10:00:00,11:30:00,Servicio Medio,Cliente nuevo
+1045,Eric de Rosenzweig,Auto $500 con traslado,0.75,2021-10-23,11:30:00,12:15:00,Servicio Corto,Cliente nuevo
+1046,Cici Martinez,Queen y matrimonial,2.0,2021-10-23,12:00:00,14:00:00,Servicio Medio,Cliente nuevo
+1047,Clínica Roca,Sin comentarios,0.75,2021-10-23,12:00:00,12:45:00,Servicio Corto,Cliente nuevo
+1048,Alan Gutierrez,Auto,0.75,2021-10-23,13:30:00,14:15:00,Servicio Corto,Cliente nuevo
+1049,Pepe Huerta,Medir total servicio comercial,0.75,2021-10-23,14:00:00,14:45:00,Servicio Corto,Cliente nuevo
+1050,Karen Juarez,"Colchon, Auto, sala y sillas",2.75,2021-10-23,14:30:00,17:15:00,Servicio Medio,Cliente nuevo
+1051,Jess del Valle Bday,Sin comentarios,0.75,2021-10-24,00:30:00,01:15:00,Servicio Corto,Cliente nuevo
+1052,Cecy Chapa,Casa club,0.75,2021-10-24,10:00:00,10:45:00,Servicio Corto,Cliente recurrente
+1053,Mariachi,Sin comentarios,0.75,2021-10-24,21:00:00,21:45:00,Servicio Corto,Cliente nuevo
+1054,Omar Hernández,Sin comentarios,1.5,2021-10-25,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+1055,Felicitas Ovalle,Sala 500 + 40 cada desmontable,1.5,2021-10-25,11:30:00,13:00:00,Servicio Medio,Cliente nuevo
+1056,Humberto Cardenas Barrera,"Auto 450, pisos",1.5,2021-10-26,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+1057,Andrea Flores influencer,2 tapetes y 2 autos,4.0,2021-10-26,11:00:00,15:00:00,Servicio Largo,Cliente nuevo
+1058,Omar Hernández,Sin comentarios,2.5,2021-10-26,16:00:00,18:30:00,Servicio Medio,Cliente recurrente
+1059,Daniela castillo sit consultores,Sin comentarios,0.75,2021-10-26,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+1060,Luisa Luisana Hernández,"Entre claveles y lirios entrando x junco de la Vega 
+Tapete 2x3",1.5,2021-10-27,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+1061,Laura Echavarria Sanchez,"3 sillones $200, $300 y $150",1.75,2021-10-27,11:00:00,12:45:00,Servicio Medio,Cliente nuevo
+1062,Cecy Chapa,Auto 450,1.25,2021-10-27,16:00:00,17:15:00,Servicio Corto,Cliente recurrente
+1063,"Piolo, Valeria Manzo",Sin comentarios,2.0,2021-10-27,17:15:00,19:15:00,Servicio Medio,Cliente nuevo
+1064,Laura Rodríguez,Sala c desmontables 700,2.0,2021-10-28,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+1065,Nayeli Jimenez,Suv 2f y traslado,1.5,2021-10-28,12:00:00,13:30:00,Servicio Medio,Cliente nuevo
+1066,Javier de la Cruz,"Laguna Guzmán 206
+Colchon y 2 salas",2.75,2021-10-28,14:30:00,17:15:00,Servicio Medio,Cliente nuevo
+1067,Melissa Yazbek,Sin comentarios,1.5,2021-10-29,09:00:00,10:30:00,Servicio Medio,Cliente recurrente
+1068,Nilda Zambrano,Sala $600 + $40 cada desmontable y 2 tapetes x m2,2.0,2021-10-29,11:00:00,13:00:00,Servicio Medio,Cliente nuevo
+1069,Norma Leticia leal tamez,Tapete pelo largo $125 x m2. Hay que medirlo,1.75,2021-10-29,14:00:00,15:45:00,Servicio Medio,Cliente nuevo
+1070,Sandra Coral Quiroz Hdz,Sala 500 + 40 cada desmontable y tapete,2.0,2021-10-29,16:00:00,18:00:00,Servicio Medio,Cliente nuevo
+1071,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-10-30,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+1072,Ya pagar a capital,Sin comentarios,0.75,2021-10-30,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+1073,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-10-31,08:00:00,09:45:00,Servicio Medio,Cliente recurrente
+1074,Marcela cavazos,Sin comentarios,0.75,2021-11-01,13:00:00,13:45:00,Servicio Corto,Cliente recurrente
+1075,Melissa Yazbek,Sin comentarios,2.0,2021-11-01,14:00:00,16:00:00,Servicio Medio,Cliente recurrente
+1076,Adriana almaguer,Sin comentarios,0.75,2021-11-01,16:00:00,16:45:00,Servicio Corto,Cliente recurrente
+1077,Soadibet Zamarripa García,Sanitizada constante 6meses $450 c 15 días,1.0,2021-11-02,10:00:00,11:00:00,Servicio Corto,Cliente recurrente
+1078,Magdiel Palomo,Camioneta,1.75,2021-11-02,10:00:00,11:45:00,Servicio Medio,Cliente nuevo
+1079,Veronica Quintanilla,Sala 321 $600,1.75,2021-11-02,12:30:00,14:15:00,Servicio Medio,Cliente nuevo
+1080,Verónica Jaramillo Saucedo,"Ave. Revolución 2703 Torre R11 Departamento 303
+Sala y tapete",2.5,2021-11-02,14:30:00,17:00:00,Servicio Medio,Cliente nuevo
+1081,David Blanco,3 matrimonial,3.0,2021-11-03,12:30:00,15:30:00,Servicio Largo,Cliente nuevo
+1082,Samira Cantu,King con hongo,2.0,2021-11-03,13:00:00,15:00:00,Servicio Medio,Cliente nuevo
+1083,Fernanda mayagoitia,"Depa 4101
+King, que huele a humedad",1.0,2021-11-03,16:30:00,17:30:00,Servicio Corto,Cliente nuevo
+1084,Clara velazquez,Sala y reclinable $700,2.0,2021-11-04,10:00:00,12:00:00,Servicio Medio,Cliente nuevo
+1085,David Rodriguez oax,Sin comentarios,3.5,2021-11-04,12:30:00,16:00:00,Servicio Largo,Cliente nuevo
+1086,Claudia Garcia,"Sala 3,2,1.",1.5,2021-11-04,16:30:00,18:00:00,Servicio Medio,Cliente nuevo
+1087,Cristina Quintanar,Tapete,1.25,2021-11-04,18:00:00,19:15:00,Servicio Corto,Cliente recurrente
+1088,Raúl García,"Sala y king, $1,050",2.0,2021-11-05,10:00:00,12:00:00,Servicio Medio,Cliente nuevo
+1089,Erika Rodríguez,Sienna 750,2.0,2021-11-05,12:30:00,14:30:00,Servicio Medio,Cliente nuevo
+1090,Laura Diaz,Tapete 3x2,2.0,2021-11-05,15:00:00,17:00:00,Servicio Medio,Cliente nuevo
+1091,Gerardo ríos,Suv c cielo 900,1.5,2021-11-05,17:15:00,18:45:00,Servicio Medio,Cliente nuevo
+1092,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-11-06,07:00:00,07:45:00,Servicio Corto,Cliente recurrente
+1093,Ya pagar a capital,Sin comentarios,0.75,2021-11-06,07:30:00,08:15:00,Servicio Corto,Cliente recurrente
+1094,Miriam liñan,Tapete 700 y colchon 550 y traslado 50,2.5,2021-11-06,10:30:00,13:00:00,Servicio Medio,Cliente nuevo
+1095,David Ali,"Sala $550
+ San Fermin #418 privada San Felipe, en la colinia Capellania, Apodaca NL",1.75,2021-11-06,14:00:00,15:45:00,Servicio Medio,Cliente recurrente
+1096,Enriqueta Moreno,"1 sala L de 6 lugares, 1 sala L de 5 lugares y un sillón individual con desmontables. En total serían $1,290",2.0,2021-11-06,16:00:00,18:00:00,Servicio Medio,Cliente recurrente
+1097,Grupo asesores Carolina ramos,Sanitizada 400,0.75,2021-11-06,18:00:00,18:45:00,Servicio Corto,Cliente recurrente
+1098,Monica Mtz Murillo,Sillón 350 y tapete PC,2.0,2021-11-09,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+1099,Shivid Cortes,Salas,2.75,2021-11-09,12:00:00,14:45:00,Servicio Medio,Cliente recurrente
+1100,Jessica Gonzalez,"Sala 3,2 $550",1.75,2021-11-10,09:15:00,11:00:00,Servicio Medio,Cliente nuevo
+1101,Mario soto,Cotizar reparación kia,0.5,2021-11-10,10:15:00,10:45:00,Servicio Corto,Cliente nuevo
+1102,Alejandra Martinez,2 tapetes,2.25,2021-11-10,11:30:00,13:45:00,Servicio Medio,Cliente nuevo
+1103,Cecy Figueroa dw Perez,Sala y tapetes,3.0,2021-11-10,15:00:00,18:00:00,Servicio Largo,Cliente nuevo
+1104,Juan Pablo Stratta,Sin comentarios,3.5,2021-11-11,09:00:00,12:30:00,Servicio Largo,Cliente recurrente
+1105,Señora Argelia orozco,"$920 sala 3,2,1 c desmontables",1.5,2021-11-11,15:00:00,16:30:00,Servicio Medio,Cliente nuevo
+1106,Alicia Sosa,Sala,2.0,2021-11-11,16:30:00,18:30:00,Servicio Medio,Cliente nuevo
+1107,Shivid Cortes,Sala y 2 tapetes,2.75,2021-11-12,09:00:00,11:45:00,Servicio Medio,Cliente recurrente
+1108,Johnny Hernández,Casa 2b,0.75,2021-11-12,14:00:00,14:45:00,Servicio Corto,Cliente nuevo
+1109,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-11-13,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+1110,Ya pagar a capital,Sin comentarios,0.75,2021-11-13,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+1111,Victoria cortes,"Ontario 122.
+Auto 550 + 50 de traslado",1.75,2021-11-13,09:00:00,10:45:00,Servicio Medio,Cliente nuevo
+1112,Clínica ROCA,Sin comentarios,1.25,2021-11-13,11:30:00,12:45:00,Servicio Corto,Cliente nuevo
+1113,Isela Mata,Suv,1.75,2021-11-13,13:00:00,14:45:00,Servicio Medio,Cliente nuevo
+1114,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-11-14,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+1115,Monica de Silva,King y traslado,2.0,2021-11-15,12:00:00,14:00:00,Servicio Medio,Cliente nuevo
+1116,Soadibet Zamarripa García,Sanitizada constante 6meses $450 c 15 días,1.0,2021-11-16,09:00:00,10:00:00,Servicio Corto,Cliente recurrente
+1117,Negro Serrato,Camioneta,1.75,2021-11-16,09:00:00,10:45:00,Servicio Medio,Cliente nuevo
+1118,Eva oropeza,Sin comentarios,0.75,2021-11-16,10:45:00,11:30:00,Servicio Corto,Cliente nuevo
+1119,Tío chilo,Sin comentarios,2.75,2021-11-16,11:30:00,14:15:00,Servicio Medio,Cliente nuevo
+1120,Diana Laura Martinez,Fusión 550,1.5,2021-11-16,13:30:00,15:00:00,Servicio Medio,Cliente nuevo
+1121,Amado escobar lopez,600 + 30 cada desmontable,2.0,2021-11-16,15:00:00,17:00:00,Servicio Medio,Cliente nuevo
+1122,Hermano de Jona,Secuoya 206 katavia,3.5,2021-11-17,09:00:00,12:30:00,Servicio Largo,Cliente nuevo
+1123,María Daniela Treviño Carmona,"Rio santiago 117 
+Sala 3,2,1 $600
+Sofá cama 450 + 40 desmontables",2.0,2021-11-17,12:00:00,14:00:00,Servicio Medio,Cliente nuevo
+1124,Roman Ibarra,2 autos,2.75,2021-11-17,14:00:00,16:45:00,Servicio Medio,Cliente recurrente
+1125,Linda Almaguer,Sin comentarios,1.25,2021-11-18,09:00:00,10:15:00,Servicio Corto,Cliente nuevo
+1126,Pepe Reyes,"Gratis Panda show 
+King y Sanitización",1.75,2021-11-18,10:30:00,12:15:00,Servicio Medio,Cliente nuevo
+1127,Enriqueta Moreno,"King, individual, tapetes y cojines",4.0,2021-11-18,13:00:00,17:00:00,Servicio Largo,Cliente recurrente
+1128,MariCarmen Hinojosa,"Recordatorio servicio recurrente 
+Casa 3 colonia Las callejas 
+8 sillas completas $640
+Tapete lana 4.40m2 = $440
+Tapete 2 azul 3.44m2 = $350
+Tapete 3 gris 3.69m2 = $360
+Colchón Queen = $550
+Cabecera Queen = $300
+Sillón individual gris = $200
+Sala c 2 triples gris = $600
+Sala piel c silla y taburete = $700
+Total $4,100",5.0,2021-11-19,09:00:00,14:00:00,Servicio Largo,Cliente recurrente
+1129,Jorge Hernández,King orines y 100 de traslado,1.5,2021-11-19,10:30:00,12:00:00,Servicio Medio,Cliente nuevo
+1130,Enriqueta Moreno,", individual,",1.0,2021-11-19,12:00:00,13:00:00,Servicio Corto,Cliente recurrente
+1131,Eglantina Perez,"Sala 3,2,1 $600 + desmontables",2.0,2021-11-19,16:00:00,18:00:00,Servicio Medio,Cliente recurrente
+1132,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-11-20,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+1133,Ya pagar a capital,Sin comentarios,0.75,2021-11-20,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+1134,Carmen escamilla,Auto c cajuela y  matrimonial,2.25,2021-11-20,10:00:00,12:15:00,Servicio Medio,Cliente nuevo
+1135,Sandy Garza tumbao,"Sala 3,2,1  c desmontables $700 + 30 cu decorativos",2.25,2021-11-20,13:00:00,15:15:00,Servicio Medio,Cliente nuevo
+1136,Dr Diego Macias,Alfombras,2.25,2021-11-20,15:00:00,17:15:00,Servicio Medio,Cliente nuevo
+1137,Shivid Cortes,Volver a lavar 2 tapetes,2.75,2021-11-23,09:00:00,11:45:00,Servicio Medio,Cliente recurrente
+1138,Mariana Guerrero,"sillón triple son $300 + $40 cada desmontable (los 2 blancos), los decorativos $30 cu el asiento desmontable tiene un costo de $100 
+Los individuales de puro asiento son de $50 cada uno
+El sillón individual gris es de $200
+El tapete es pelo corto es de $100 x m2",3.25,2021-11-23,12:30:00,15:45:00,Servicio Largo,Cliente recurrente
+1139,MariCarmen Hinojosa,"Recordatorio servicio recurrente 
+Casa 3 colonia Las callejas 
+Queen y tapete",2.0,2021-11-23,16:00:00,18:00:00,Servicio Medio,Cliente recurrente
+1140,Rosa de León,"La direccion es cerceta 110 
+Sector Alondra 
+Privadas borneo
+4 sillas 1 banca y sillon individual",1.75,2021-11-24,09:00:00,10:45:00,Servicio Medio,Cliente recurrente
+1141,Martha Alicia Palacios,"Sala 900, colchón cuna 300 y más",3.75,2021-11-24,11:30:00,15:15:00,Servicio Largo,Cliente recurrente
+1142,Dora Martinez,Sin comentarios,1.0,2021-11-24,12:30:00,13:30:00,Servicio Corto,Cliente nuevo
+1143,Cynthia Figueroa,Queen c traslado,1.25,2021-11-25,09:30:00,10:45:00,Servicio Corto,Cliente recurrente
+1144,Lety denigris,Sin comentarios,2.5,2021-11-25,11:30:00,14:00:00,Servicio Medio,Cliente nuevo
+1145,Fernanda Santos,Tapete y sillas,2.25,2021-11-25,15:00:00,17:15:00,Servicio Medio,Cliente nuevo
+1146,Silvia carmona,Sala,2.25,2021-11-26,09:00:00,11:15:00,Servicio Medio,Cliente nuevo
+1147,María medina,Sala 600 + 20 desmontables de 30cu,1.75,2021-11-26,12:00:00,13:45:00,Servicio Medio,Cliente nuevo
+1148,Daniela castillo sit consultores,Sin comentarios,0.75,2021-11-26,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+1149,Pago a Jessy $358,Limpiaalfombras karcher,0.75,2021-11-27,01:00:00,01:45:00,Servicio Corto,Cliente recurrente
+1150,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-11-27,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+1151,Ya pagar a capital,Sin comentarios,0.75,2021-11-27,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+1152,Eglantina Perez,Alfombra y carro,2.0,2021-11-27,10:00:00,12:00:00,Servicio Medio,Cliente recurrente
+1153,Rocío Chavez,Sala 8p,2.0,2021-11-27,13:00:00,15:00:00,Servicio Medio,Cliente nuevo
+1154,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-11-28,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+1155,Sra Sofia G de Flores,"Serían 300 de los 2 sofás individuales, 650 de las 8 sillas y 350 de los 4 descansabrazos, total $1,300",2.25,2021-11-29,09:30:00,11:45:00,Servicio Medio,Cliente nuevo
+1156,Tía Lucy Garza,Tapete,1.75,2021-11-29,12:00:00,13:45:00,Servicio Medio,Cliente nuevo
+1157,Enedina Cantu,Sofá 350 sin cojines,1.5,2021-11-29,14:30:00,16:00:00,Servicio Medio,Cliente nuevo
+1158,Irasema Loera,Aplicar teflon 900 sala y 75 cada silla,0.75,2021-11-29,17:00:00,17:45:00,Servicio Corto,Cliente nuevo
+1159,Yolanda Farias,"3 ind, 1 queen, sala",5.0,2021-11-30,09:00:00,14:00:00,Servicio Largo,Cliente nuevo
+1160,Solecito,"Sala 3,2",2.0,2021-11-30,14:00:00,16:00:00,Servicio Medio,Cliente nuevo
+1161,Shivid Cortes,Cojines y tapete otra vez,2.75,2021-12-01,09:00:00,11:45:00,Servicio Medio,Cliente recurrente
+1162,Francis Cuellar,"Sahuaro 112 cerradas de cumbres sector miralta primer sector
+ sala de piel con los decorativos, otra sala, 8 sillas de comedor, 6 banquitos y 4 tapetes?",5.0,2021-12-01,13:00:00,18:00:00,Servicio Largo,Cliente recurrente
+1163,Francis Cuellar,"Sahuaro 112 cerradas de cumbres sector miralta primer sector
+ sala de piel, 2 tapetes, el del perro, etc",2.0,2021-12-02,12:00:00,14:00:00,Servicio Medio,Cliente recurrente
+1164,Samantha Valdés,"Sala L 600, sofá cama y bancos",3.0,2021-12-02,14:00:00,17:00:00,Servicio Largo,Cliente recurrente
+1165,Enriqueta Moreno,Tapetes,4.5,2021-12-03,09:00:00,13:30:00,Servicio Largo,Cliente recurrente
+1166,Aldo Salinas,Sin comentarios,0.75,2021-12-03,15:00:00,15:45:00,Servicio Corto,Cliente nuevo
+1167,Angel Macias,Sin comentarios,1.75,2021-12-03,16:00:00,17:45:00,Servicio Medio,Cliente nuevo
+1168,Carlos Huerta,Auto,1.5,2021-12-03,17:30:00,19:00:00,Servicio Medio,Cliente nuevo
+1169,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-12-04,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+1170,Ya pagar a capital,Sin comentarios,0.75,2021-12-04,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+1171,Juan Carlos Guajardo,"Cerceta 106
+Las sillas completas son de $80 cu, la banca de $100. 
+El king en $600
+Y sofá",3.0,2021-12-04,10:00:00,13:00:00,Servicio Largo,Cliente nuevo
+1172,Wendy Pedroza,Sala,2.0,2021-12-04,14:00:00,16:00:00,Servicio Medio,Cliente nuevo
+1173,Vanessa Alfaro,"Auto $450
+Lavado completo c descuento y cajuela",1.5,2021-12-04,16:00:00,17:30:00,Servicio Medio,Cliente nuevo
+1174,Deyanira Treviño,3b,0.75,2021-12-06,14:45:00,15:30:00,Servicio Corto,Cliente nuevo
+1175,Maestra Martha,Sin comentarios,3.25,2021-12-07,08:30:00,11:45:00,Servicio Largo,Cliente recurrente
+1176,Enriqueta Moreno,Arreglar Tapetes,1.0,2021-12-07,12:30:00,13:30:00,Servicio Corto,Cliente recurrente
+1177,Lourdes Cabrera,Auto,2.0,2021-12-07,14:00:00,16:00:00,Servicio Medio,Cliente nuevo
+1178,Claudia Peña,Tapete,2.0,2021-12-07,16:00:00,18:00:00,Servicio Medio,Cliente nuevo
+1179,Maestra Martha,Sin comentarios,3.25,2021-12-08,08:30:00,11:45:00,Servicio Largo,Cliente recurrente
+1180,Nancy Fresnillo,Sin comentarios,2.5,2021-12-08,09:00:00,11:30:00,Servicio Medio,Cliente recurrente
+1181,Perla Gonzalez,Yaris $550,3.75,2021-12-08,12:15:00,16:00:00,Servicio Largo,Cliente recurrente
+1182,Cynthia Figueroa,Queen c traslado,1.25,2021-12-09,09:00:00,10:15:00,Servicio Corto,Cliente recurrente
+1183,Lorena Montoya,"Sala 3,2,1",2.0,2021-12-09,12:00:00,14:00:00,Servicio Medio,Cliente recurrente
+1184,Priscila Ochoa,Sillas y sala piel,2.25,2021-12-09,14:00:00,16:15:00,Servicio Medio,Cliente nuevo
+1185,Teresa Treviño,Sala 221 $500,2.0,2021-12-10,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+1186,Maryen Cortes,"2 tapetes, 1 sillon individual, 1 mecedora y 1 carseat",4.0,2021-12-10,11:00:00,15:00:00,Servicio Largo,Cliente nuevo
+1187,McPherson Rd H-E-B (#449),Sin comentarios,0.17,2021-12-10,12:00:00,12:10:00,Servicio Corto,Cliente nuevo
+1188,Ervin Tijerina,"Calle Van Gogh #114
+Matrimonial $500 ya con 50 de traslado",1.5,2021-12-10,16:30:00,18:00:00,Servicio Medio,Cliente recurrente
+1189,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-12-11,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+1190,Ya pagar a capital,Sin comentarios,0.75,2021-12-11,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+1191,Magdalena de elizondo,Sin comentarios,1.5,2021-12-11,09:00:00,10:30:00,Servicio Medio,Cliente nuevo
+1192,Hector Armendariz,Sillas puro asiento,1.75,2021-12-11,10:30:00,12:15:00,Servicio Medio,Cliente recurrente
+1193,Perla Gonzalez,Yaris $550,1.5,2021-12-11,12:15:00,13:45:00,Servicio Medio,Cliente recurrente
+1194,Paulina Lopez Flores,Sala,1.5,2021-12-11,14:00:00,15:30:00,Servicio Medio,Cliente nuevo
+1195,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-12-12,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+1196,Mauricio Razo,"Bronce 1120
+King",2.0,2021-12-13,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+1197,Perla Mendoza,"Academia A tempo
+Alfombra oficina 60 pesos x m2",2.0,2021-12-13,15:45:00,17:45:00,Servicio Medio,Cliente nuevo
+1198,Ivan Villarreal,"Colchón King (2) $1200
+Queen (1) $ 550
+Descanset (1)$250
+Sala 3,2. $500
+Total= $2,500
+Y te lavao el tapete de gratis",4.75,2021-12-14,09:00:00,13:45:00,Servicio Largo,Cliente nuevo
+1199,Daniela Duarte,"Grisen 422, Col puerta de hierro",1.75,2021-12-14,15:00:00,16:45:00,Servicio Medio,Cliente recurrente
+1200,Rosario Lemus,"Tapete 2x1.50 PL, $375",0.75,2021-12-14,17:30:00,18:15:00,Servicio Corto,Cliente recurrente
+1201,Adriana Perez,"Jade 107 
+Sala 500 y king 600",2.0,2021-12-15,09:00:00,11:00:00,Servicio Medio,Cliente recurrente
+1202,Hector Armendariz,"Si carnal, es sala 321. Es de $600 + $30 cada cojin pequeño y los $40 los otros más grandes",1.75,2021-12-15,12:00:00,13:45:00,Servicio Medio,Cliente recurrente
+1203,Cesar Raúl Garza,Sala,2.0,2021-12-15,14:30:00,16:30:00,Servicio Medio,Cliente nuevo
+1204,Dra Paola Mejía,Sillón y sillas,2.25,2021-12-15,16:30:00,18:45:00,Servicio Medio,Cliente recurrente
+1205,Sabrina sbc,Sofá y tapete,2.5,2021-12-16,08:30:00,11:00:00,Servicio Medio,Cliente nuevo
+1206,Laura Sanchez,"Lantana 5333 Cumbrescondido
+Sala y sillas",2.0,2021-12-16,12:00:00,14:00:00,Servicio Medio,Cliente nuevo
+1207,Monica Leal,Sin comentarios,1.5,2021-12-16,14:00:00,15:30:00,Servicio Medio,Cliente recurrente
+1208,Hector Armendariz,Sillón 1pG $150 reclinable doble $300,1.25,2021-12-16,15:30:00,16:45:00,Servicio Corto,Cliente recurrente
+1209,Rosario Lemus,Auto 550,0.75,2021-12-16,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+1210,Anakaren Villegas,"Cuando lleguen en la caseta dicen torre 3-110
+Tapete $350",1.25,2021-12-17,09:15:00,10:30:00,Servicio Corto,Cliente nuevo
+1211,Samantha Valdez,Limpieza de sofa reclinable y colchón,2.0,2021-12-17,10:45:00,12:45:00,Servicio Medio,Cliente nuevo
+1212,Tapete sra sabrina,Sin comentarios,0.75,2021-12-17,12:30:00,13:15:00,Servicio Corto,Cliente nuevo
+1213,Karla Treviño,"Sala, desmontables, Tapete y sillas",4.75,2021-12-17,13:45:00,18:30:00,Servicio Largo,Cliente recurrente
+1214,Dra Paola Mejía,Sillón y sillas,1.25,2021-12-17,17:00:00,18:15:00,Servicio Corto,Cliente recurrente
+1215,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-12-18,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+1216,Ya pagar a capital,Sin comentarios,0.75,2021-12-18,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+1217,Konia Cruz,"limpieza de sala, Sillas, 1king y 1 matrimonial, Auto",4.0,2021-12-18,10:00:00,14:00:00,Servicio Largo,Cliente recurrente
+1218,Monica Leal,"Sala 321 con desmontables, 1000 pendientes",2.48,2021-12-21,09:00:00,11:29:00,Servicio Medio,Cliente recurrente
+1219,Rosa de León,"La direccion es cerceta 110 
+Sector Alondra 
+Privadas borneo
+Matrimoniales",1.75,2021-12-21,14:00:00,15:45:00,Servicio Medio,Cliente recurrente
+1220,Paola likepriscila,Colchon y tapete,2.0,2021-12-22,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+1221,Karla Treviño,"Sala, desmontables, Tapete y sillas",1.75,2021-12-22,12:00:00,13:45:00,Servicio Medio,Cliente recurrente
+1222,Victor Manuel Mendoza,Camioneta 3 filas c cielo $900,2.0,2021-12-22,15:00:00,17:00:00,Servicio Medio,Cliente nuevo
+1223,Gabriela Treviño,"2 individual, 1 queen, y sala con 3 individuales ($150 + $40cdesmontable) y doble de $250",4.0,2021-12-23,09:00:00,13:00:00,Servicio Largo,Cliente nuevo
+1224,Likepriscila,"Del fuego 19 olinca
+2 salas",1.75,2021-12-23,13:15:00,15:00:00,Servicio Medio,Cliente nuevo
+1225,Lili Perez,Sanitización y limpieza de 3 sillones,2.0,2021-12-23,16:00:00,18:00:00,Servicio Medio,Cliente recurrente
+1226,Mariana Echavarria,2 tapetes,1.75,2021-12-23,17:00:00,18:45:00,Servicio Medio,Cliente nuevo
+1227,Pagar tarjeta de Crédito,Sin comentarios,0.75,2021-12-25,06:00:00,06:45:00,Servicio Corto,Cliente recurrente
+1228,Ya pagar a capital,Sin comentarios,0.75,2021-12-25,06:30:00,07:15:00,Servicio Corto,Cliente recurrente
+1229,Desinfección Clínica ROCA,Sin comentarios,1.75,2021-12-26,07:00:00,08:45:00,Servicio Medio,Cliente recurrente
+1230,Daniela castillo sit consultores,Sin comentarios,0.75,2021-12-26,17:00:00,17:45:00,Servicio Corto,Cliente recurrente
+1231,Pago a Jessy $358,Limpiaalfombras karcher,0.75,2021-12-27,01:00:00,01:45:00,Servicio Corto,Cliente recurrente
+1232,Paola Hinojosa,"Valle de las cerradas 1124
+Sillón triple fijo y silla",1.5,2021-12-27,10:30:00,12:00:00,Servicio Medio,Cliente nuevo
+1233,Claudia Lozano,"Perfecto, por la sala 321 serían $600 + $40 cada desmontable ($240) y $200 el descanset. En total serían $1,040",2.25,2021-12-27,13:00:00,15:15:00,Servicio Medio,Cliente nuevo
+1234,Gerardo Heredia,Tapete PL,1.25,2021-12-27,15:30:00,16:45:00,Servicio Corto,Cliente nuevo
+1235,Paty de Anda,Sala fijo 400,1.25,2021-12-27,17:00:00,18:15:00,Servicio Corto,Cliente recurrente
+1236,Cindy Garza Lozano,Colchon y sala,2.25,2021-12-28,09:00:00,11:15:00,Servicio Medio,Cliente nuevo
+1237,Samantha Garcia,Sin comentarios,0.75,2021-12-28,12:00:00,12:45:00,Servicio Corto,Cliente recurrente
+1238,Antonio Gza,Sin comentarios,1.5,2021-12-28,12:30:00,14:00:00,Servicio Medio,Cliente nuevo
+1239,María del Carmen Frutos Sandoval,Sala L y 8 sillas,2.0,2021-12-28,15:00:00,17:00:00,Servicio Medio,Cliente nuevo
+1240,Mario Nieto,King y tapete,2.75,2021-12-29,09:00:00,11:45:00,Servicio Medio,Cliente nuevo
+1241,Zaira García,Sala 3 2 c traslado $550,1.75,2021-12-29,11:15:00,13:00:00,Servicio Medio,Cliente nuevo
+1242,Melanie Laspine,"plaza rincón Del Valle  eucaplito 14
+Sala 400 + 40 cada desmontable y tapete",2.5,2021-12-29,13:00:00,15:30:00,Servicio Medio,Cliente nuevo
+1243,Mara Aguirre,Sin comentarios,0.75,2021-12-29,16:00:00,16:45:00,Servicio Corto,Cliente recurrente
+1244,Juan Fabela,Sala 4p fijo c traslado $450,2.0,2021-12-30,09:00:00,11:00:00,Servicio Medio,Cliente nuevo
+1245,Solicito Jess,Sin comentarios,0.75,2021-12-30,11:00:00,11:45:00,Servicio Corto,Cliente nuevo
+1246,Mara Aguirre,Sin comentarios,0.75,2021-12-30,12:30:00,13:15:00,Servicio Corto,Cliente recurrente
+1247,Natalia Martinez,"Sala completa  $800
+Matrimonial $450
+Individual $350 
+Total $1,600",1.5,2021-12-30,13:30:00,15:00:00,Servicio Medio,Cliente nuevo
